@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T12:44:30.992130+01:00",
+  "checkedAt": "2026-10-25T12:47:31.654102+01:00",
   "lots": [
     {
       "id": "node/2135053508",
@@ -9,16 +9,6 @@
         19.9274049
       ],
       "fee": "yes",
-      "access": "yes"
-    },
-    {
-      "id": "node/6449762525",
-      "name": "Kiss & Ride",
-      "coordinates": [
-        50.0417106,
-        19.9613788
-      ],
-      "fee": "no",
       "access": "yes"
     },
     {
@@ -97,6 +87,26 @@
       "coordinates": [
         49.998859,
         19.9175268
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/533004978",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0405945,
+        19.9584342
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/637290295",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.041726,
+        19.9621907
       ],
       "fee": "unknown",
       "access": "unknown"
@@ -240,16 +250,6 @@
       ],
       "fee": "unknown",
       "access": "unknown"
-    },
-    {
-      "id": "way/1553645591",
-      "name": "Kiss & Ride",
-      "coordinates": [
-        50.0428349,
-        19.9604343
-      ],
-      "fee": "no",
-      "access": "yes"
     },
     {
       "id": "way/1565834021",

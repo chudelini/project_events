@@ -33,7 +33,7 @@ DESCRIPTION:Program: 11:00-12:30 - oprowadzanie kuratorskie\, prowadzenie:
  OpenStreetMap — 434 m\nMapa: https://www.google.com/maps/search/?api=1&q
  uery=50.0630714%2C19.9303023\nDojazd: https://www.google.com/maps/dir/?api
  =1&destination=50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dostępno
- ść parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:
+ ść parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:
  00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
@@ -68,7 +68,7 @@ DESCRIPTION:Zapraszamy na niedzielne oprowadzanie kuratorskie po wystawie
   https://www.google.com/maps/search/?api=1&query=49.9985798%2C19.9188829\n
  Dojazd: https://www.google.com/maps/dir/?api=1&destination=49.9985798%2C19
  .9188829\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDan
- e sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ e sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Muzeum i Centrum Ruchu Harcerskiego\, ul. Forteczna 28\, 30-437 K
  raków
@@ -106,7 +106,7 @@ DESCRIPTION:Wydawnictwo Znak Horyzont wraz z autorem Michałem Niezabitows
  .google.com/maps/search/?api=1&query=50.0493646%2C19.9368144\nDojazd: http
  s://www.google.com/maps/dir/?api=1&destination=50.0493646%2C19.9368144\n\n
  Sprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzono
- : 2026-10-25T12:42:44.601178+01:00
+ : 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Muzeum Sztuki i Techniki Japońskiej Manggha\, Muzeum Sztuki i Te
  chniki Japońskiej Manggha\, ul. Marii Konopnickiej 26\, Kraków.
@@ -118,9 +118,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oprowadzanie kuratorskie po wystawie „Miasto pod Kopcem Kraka”
 DTSTART:20261028T163000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:ffc736e70cbeb84acf198b3a@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:Co znaleziono w kopcu Kraka? Do czego służyła tajemnicza k
@@ -133,15 +133,15 @@ DESCRIPTION:Co znaleziono w kopcu Kraka? Do czego służyła tajemnicza k
  %C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\nDojaz
  d: https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza
  +ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\n\nNajbliższe 
- parkingi w bazie OSM (odległość w linii prostej):\nKiss & Ride — 23 m
- \nMapa: https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.96
- 04343\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.04283
- 49%2C19.9604343\nKiss & Ride — 121 m\nMapa: https://www.google.com/maps/
- search/?api=1&query=50.0417106%2C19.9613788\nDojazd: https://www.google.co
- m/maps/dir/?api=1&destination=50.0417106%2C19.9613788\n\nSprawdź oznakowa
- nie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:4
- 2:44.601178+01:00
-LAST-MODIFIED:20261025T113613Z
+ parkingi w bazie OSM (odległość w linii prostej):\nParking z mapy OpenS
+ treetMap — 153 m\nMapa: https://www.google.com/maps/search/?api=1&query=
+ 50.041726%2C19.9621907\nDojazd: https://www.google.com/maps/dir/?api=1&des
+ tination=50.041726%2C19.9621907\nParking z mapy OpenStreetMap — 284 m\nM
+ apa: https://www.google.com/maps/search/?api=1&query=50.0405945%2C19.95843
+ 42\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0405945%
+ 2C19.9584342\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.
+ \nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -174,7 +174,7 @@ DESCRIPTION:Warsztaty przeznaczone są dla młodego pokolenia (od 14. roku
  ps/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google
  .com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznak
  owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T1
- 2:42:44.601178+01:00
+ 2:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -185,9 +185,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wieczór z kokardą
 DTSTART:20261029T170000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:77c0f9a07e2c36db0414bb52@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:Podczas gdy cała Polska świętuje odzyskanie Niepodległośc
@@ -200,14 +200,14 @@ DESCRIPTION:Podczas gdy cała Polska świętuje odzyskanie Niepodległośc
  0-551+Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&destinat
  ion=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Kra
  k%C3%B3w\n\nNajbliższe parkingi w bazie OSM (odległość w linii prostej
- ):\nKiss & Ride — 23 m\nMapa: https://www.google.com/maps/search/?api=1&
- query=50.0428349%2C19.9604343\nDojazd: https://www.google.com/maps/dir/?ap
- i=1&destination=50.0428349%2C19.9604343\nKiss & Ride — 121 m\nMapa: http
- s://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788\nDojaz
- d: https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613
- 788\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane spr
- awdzono: 2026-10-25T12:42:44.601178+01:00
-LAST-MODIFIED:20261025T113613Z
+ ):\nParking z mapy OpenStreetMap — 153 m\nMapa: https://www.google.com/m
+ aps/search/?api=1&query=50.041726%2C19.9621907\nDojazd: https://www.google
+ .com/maps/dir/?api=1&destination=50.041726%2C19.9621907\nParking z mapy Op
+ enStreetMap — 284 m\nMapa: https://www.google.com/maps/search/?api=1&que
+ ry=50.0405945%2C19.9584342\nDojazd: https://www.google.com/maps/dir/?api=1
+ &destination=50.0405945%2C19.9584342\n\nSprawdź oznakowanie i dostępnoś
+ ć parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -238,8 +238,8 @@ DESCRIPTION:Kraków to zaczarowane miasto\, nie tylko symbolicznie. Tu cza
  arking z mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/maps/s
  earch/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google.com
  /maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznakowan
- ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42
- :44.601178+01:00
+ ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45
+ :37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -275,7 +275,7 @@ DESCRIPTION:Mieszcząca się na krakowskim Zabłociu fabryka naczyń emali
  ps/search/?api=1&query=50.0492295%2C19.9644492\nDojazd: https://www.google
  .com/maps/dir/?api=1&destination=50.0492295%2C19.9644492\n\nSprawdź oznak
  owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T1
- 2:42:44.601178+01:00
+ 2:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Fabryka Emalia Oskara Schindlera\, ul. Lipowa 4\, 30-702 Kraków
 STATUS:CONFIRMED
@@ -310,7 +310,7 @@ DESCRIPTION:Warsztaty przeznaczone są dla osób dorosłych\, które chcą
  ps/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google
  .com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznak
  owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T1
- 2:42:44.601178+01:00
+ 2:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -342,7 +342,7 @@ DESCRIPTION:Prokocim był miejscem działalności 2. kompanii IV Odcinka
  www.google.com/maps/search/?api=1&query=50.0705117%2C19.9249915\nDojazd: h
  ttps://www.google.com/maps/dir/?api=1&destination=50.0705117%2C19.9249915
  \n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawd
- zono: 2026-10-25T12:42:44.601178+01:00
+ zono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Ulica Pomorska\, ul. Pomorska 2\, 30-039 Kraków
 STATUS:CONFIRMED
@@ -376,7 +376,7 @@ DESCRIPTION:Warsztaty przeznaczone są dla osób dorosłych\, które chcą
  maps/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.goog
  le.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź ozn
  akowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25
- T12:42:44.601178+01:00
+ T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -409,7 +409,7 @@ DESCRIPTION:Zapraszamy na spotkanie z cyklu „Herbatka u Rydlów "! Opowi
  s/search/?api=1&query=50.0870513%2C19.8752515\nDojazd: https://www.google.
  com/maps/dir/?api=1&destination=50.0870513%2C19.8752515\n\nSprawdź oznako
  wanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12
- :42:44.601178+01:00
+ :45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rydlówka\, ul. Włodzimierza Tetmajera 28\, 31-352 Kraków
 STATUS:CONFIRMED
@@ -443,7 +443,7 @@ DESCRIPTION:ZAŁOŻENIA OGÓLNE CYKLU: Sympozjum to kolejna odsłona cyklu
  — 434 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.063071
  4%2C19.9303023\nDojazd: https://www.google.com/maps/dir/?api=1&destination
  =50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dostępność parkingu 
- na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -478,7 +478,7 @@ DESCRIPTION:Współczesna ulica Łobzowska była jedną z głównych dróg
  a: https://www.google.com/maps/search/?api=1&query=50.0720668%2C19.9268474
  \nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0720668%2C
  19.9268474\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nD
- ane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ ane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:plac przed kościołem św. Szczepana\, Miejsce zbiórki: plac pr
  zed kościołem św. Szczepana\, ul. Sienkiewicza 19
@@ -512,7 +512,7 @@ DESCRIPTION:Zapraszamy na spacer upamiętniający\, połączony z prezenta
  212 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0476795%2C
  19.9522114\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.
  0476795%2C19.9522114\n\nSprawdź oznakowanie i dostępność parkingu na m
- iejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ iejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Apteka pod Orłem\, plac Bohaterów Getta 18\, 30-547 Kraków
 STATUS:CONFIRMED
@@ -544,8 +544,8 @@ DESCRIPTION:Znacie historię walki walecznego szewczyka i okrutnego smoka?
   mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/maps/search/?a
  pi=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google.com/maps/di
  r/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dos
- tępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.6011
- 78+01:00
+ tępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.4000
+ 79+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -577,7 +577,7 @@ DESCRIPTION:Na czwartkowy obiad do Pałacu Krzysztofory przybywa Pan Tward
  — 434 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.063071
  4%2C19.9303023\nDojazd: https://www.google.com/maps/dir/?api=1&destination
  =50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dostępność parkingu 
- na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -590,9 +590,9 @@ SUMMARY:„Hotel Forum i jego niezwykłe dzieje” – oprowadzanie po wys
  tawie czasowej z pomocami sensorycznymi i tłumaczeniem na Polski Język M
  igowy PJM
 DTSTART:20261118T150000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:fa6c85744d08360c9fc2a369@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:Wyrazisty w architektonicznej formie\, znakomity przykład bru
@@ -606,15 +606,15 @@ DESCRIPTION:Wyrazisty w architektonicznej formie\, znakomity przykład bru
  +Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\nDojazd: https://ww
  w.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5
  %82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\n\nNajbliższe parkingi w ba
- zie OSM (odległość w linii prostej):\nKiss & Ride — 23 m\nMapa: https
- ://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343\nDojazd
- : https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.96043
- 43\nKiss & Ride — 121 m\nMapa: https://www.google.com/maps/search/?api=1
- &query=50.0417106%2C19.9613788\nDojazd: https://www.google.com/maps/dir/?a
- pi=1&destination=50.0417106%2C19.9613788\n\nSprawdź oznakowanie i dostęp
- ność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+0
- 1:00
-LAST-MODIFIED:20261025T113613Z
+ zie OSM (odległość w linii prostej):\nParking z mapy OpenStreetMap — 
+ 153 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.041726%2C1
+ 9.9621907\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0
+ 41726%2C19.9621907\nParking z mapy OpenStreetMap — 284 m\nMapa: https://
+ www.google.com/maps/search/?api=1&query=50.0405945%2C19.9584342\nDojazd: h
+ ttps://www.google.com/maps/dir/?api=1&destination=50.0405945%2C19.9584342
+ \n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawd
+ zono: 2026-10-25T12:45:37.400079+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -626,9 +626,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hotele z importu
 DTSTART:20261118T170000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:e67531c8c670f0ad1bad3105@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:W latach 70. XX wieku zapowiadano budowę „drugiej Polski”
@@ -640,15 +640,15 @@ DESCRIPTION:W latach 70. XX wieku zapowiadano budowę „drugiej Polski”
  1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551
  +Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&destination=M
  uzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%
- B3w\n\nNajbliższe parkingi w bazie OSM (odległość w linii prostej):\nK
- iss & Ride — 23 m\nMapa: https://www.google.com/maps/search/?api=1&query
- =50.0428349%2C19.9604343\nDojazd: https://www.google.com/maps/dir/?api=1&d
- estination=50.0428349%2C19.9604343\nKiss & Ride — 121 m\nMapa: https://w
- ww.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788\nDojazd: ht
- tps://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788\n
- \nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzo
- no: 2026-10-25T12:42:44.601178+01:00
-LAST-MODIFIED:20261025T113613Z
+ B3w\n\nNajbliższe parkingi w bazie OSM (odległość w linii prostej):\nP
+ arking z mapy OpenStreetMap — 153 m\nMapa: https://www.google.com/maps/s
+ earch/?api=1&query=50.041726%2C19.9621907\nDojazd: https://www.google.com/
+ maps/dir/?api=1&destination=50.041726%2C19.9621907\nParking z mapy OpenStr
+ eetMap — 284 m\nMapa: https://www.google.com/maps/search/?api=1&query=50
+ .0405945%2C19.9584342\nDojazd: https://www.google.com/maps/dir/?api=1&dest
+ ination=50.0405945%2C19.9584342\n\nSprawdź oznakowanie i dostępność pa
+ rkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Po śladach legendy Hotelu Forum – oprowadzanie dla rodziców w 
  ramach Muzeum od Kołyski
 DTSTART:20261119T093000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:206c507337d7925715cfa698@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:Żelbetowa dominanta krajobrazu Ludwinowa. Tak można opisać 
@@ -674,15 +674,15 @@ DESCRIPTION:Żelbetowa dominanta krajobrazu Ludwinowa. Tak można opisać
  g%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\nDoja
  zd: https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rz
  a+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\n\nNajbliższe
-  parkingi w bazie OSM (odległość w linii prostej):\nKiss & Ride — 23 
- m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9
- 604343\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0428
- 349%2C19.9604343\nKiss & Ride — 121 m\nMapa: https://www.google.com/maps
- /search/?api=1&query=50.0417106%2C19.9613788\nDojazd: https://www.google.c
- om/maps/dir/?api=1&destination=50.0417106%2C19.9613788\n\nSprawdź oznakow
- anie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:
- 42:44.601178+01:00
-LAST-MODIFIED:20261025T113613Z
+  parkingi w bazie OSM (odległość w linii prostej):\nParking z mapy Open
+ StreetMap — 153 m\nMapa: https://www.google.com/maps/search/?api=1&query
+ =50.041726%2C19.9621907\nDojazd: https://www.google.com/maps/dir/?api=1&de
+ stination=50.041726%2C19.9621907\nParking z mapy OpenStreetMap — 284 m\n
+ Mapa: https://www.google.com/maps/search/?api=1&query=50.0405945%2C19.9584
+ 342\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0405945
+ %2C19.9584342\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.
+ \nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -716,7 +716,7 @@ DESCRIPTION:Współczesne oblicze rynku krakowskiego stanowi w dużej mier
  s/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google.
  com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznako
  wanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12
- :42:44.601178+01:00
+ :45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rynek Podziemny\, Rynek Główny 1\, 31-042 Kraków
 STATUS:CONFIRMED
@@ -748,7 +748,7 @@ DESCRIPTION:Jak naprawdę wyglądało wesele\, które na zawsze zmieniło
   OpenStreetMap — 218 m\nMapa: https://www.google.com/maps/search/?api=1&
  query=50.0870513%2C19.8752515\nDojazd: https://www.google.com/maps/dir/?ap
  i=1&destination=50.0870513%2C19.8752515\n\nSprawdź oznakowanie i dostępn
- ość parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01
+ ość parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01
  :00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rydlówka\, ul. Włodzimierza Tetmajera 28\, 31-352 Kraków
@@ -783,7 +783,7 @@ DESCRIPTION:Osadzanie Chochoła\, to wyjątkowe wydarzenie złożone z trz
  tps://www.google.com/maps/search/?api=1&query=50.0870513%2C19.8752515\nDoj
  azd: https://www.google.com/maps/dir/?api=1&destination=50.0870513%2C19.87
  52515\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane s
- prawdzono: 2026-10-25T12:42:44.601178+01:00
+ prawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rydlówka\, ul. Włodzimierza Tetmajera 28\, 31-352 Kraków
 STATUS:CONFIRMED
@@ -793,9 +793,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Światło formy – warsztaty projektowania lamp w duchu lat 70.
 DTSTART:20261121T090000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:45d1a1908fe20a480742c877@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:kultura
 CREATED:20261025T113613Z
 DESCRIPTION:Czy zastanawialiście się kiedyś\, jak przenieść klimat kr
@@ -808,15 +808,15 @@ DESCRIPTION:Czy zastanawialiście się kiedyś\, jak przenieść klimat kr
  oles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\nDojazd: https://www.
  google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%8
  2awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\n\nNajbliższe parkingi w bazi
- e OSM (odległość w linii prostej):\nKiss & Ride — 23 m\nMapa: https:/
- /www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343\nDojazd: 
- https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343
- \nKiss & Ride — 121 m\nMapa: https://www.google.com/maps/search/?api=1&q
- uery=50.0417106%2C19.9613788\nDojazd: https://www.google.com/maps/dir/?api
- =1&destination=50.0417106%2C19.9613788\n\nSprawdź oznakowanie i dostępno
- ść parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:
- 00
-LAST-MODIFIED:20261025T113613Z
+ e OSM (odległość w linii prostej):\nParking z mapy OpenStreetMap — 15
+ 3 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.041726%2C19.
+ 9621907\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.041
+ 726%2C19.9621907\nParking z mapy OpenStreetMap — 284 m\nMapa: https://ww
+ w.google.com/maps/search/?api=1&query=50.0405945%2C19.9584342\nDojazd: htt
+ ps://www.google.com/maps/dir/?api=1&destination=50.0405945%2C19.9584342\n
+ \nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzo
+ no: 2026-10-25T12:45:37.400079+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -827,9 +827,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wydzierankowe pejzaże
 DTSTART:20261121T100000Z
-DTSTAMP:20261025T113613Z
+DTSTAMP:20261025T114537Z
 UID:aa32b5a9b3564e5617dcf77c@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:Współcześni artyści często wykorzystują różne nietypow
@@ -842,14 +842,15 @@ DESCRIPTION:Współcześni artyści często wykorzystują różne nietypow
  1%2C+30-551+Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&de
  stination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-5
  51+Krak%C3%B3w\n\nNajbliższe parkingi w bazie OSM (odległość w linii p
- rostej):\nKiss & Ride — 23 m\nMapa: https://www.google.com/maps/search/?
- api=1&query=50.0428349%2C19.9604343\nDojazd: https://www.google.com/maps/d
- ir/?api=1&destination=50.0428349%2C19.9604343\nKiss & Ride — 121 m\nMapa
- : https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788
- \nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C
- 19.9613788\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nD
- ane sprawdzono: 2026-10-25T12:42:44.601178+01:00
-LAST-MODIFIED:20261025T113613Z
+ rostej):\nParking z mapy OpenStreetMap — 153 m\nMapa: https://www.google
+ .com/maps/search/?api=1&query=50.041726%2C19.9621907\nDojazd: https://www.
+ google.com/maps/dir/?api=1&destination=50.041726%2C19.9621907\nParking z m
+ apy OpenStreetMap — 284 m\nMapa: https://www.google.com/maps/search/?api
+ =1&query=50.0405945%2C19.9584342\nDojazd: https://www.google.com/maps/dir/
+ ?api=1&destination=50.0405945%2C19.9584342\n\nSprawdź oznakowanie i dost
+ ępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.40007
+ 9+01:00
+LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
 STATUS:CONFIRMED
@@ -880,8 +881,8 @@ DESCRIPTION:Czy zastanawiałeś się\, jak działają radioodbiorniki i co
  ng z mapy OpenStreetMap — 266 m\nMapa: https://www.google.com/maps/searc
  h/?api=1&query=50.0492295%2C19.9644492\nDojazd: https://www.google.com/map
  s/dir/?api=1&destination=50.0492295%2C19.9644492\n\nSprawdź oznakowanie i
-  dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.
- 601178+01:00
+  dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.
+ 400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Fabryka Emalia Oskara Schindlera\, ul. Lipowa 4\, 30-702 Kraków
 STATUS:CONFIRMED
@@ -915,7 +916,7 @@ DESCRIPTION:Zapraszamy na niedzielne oprowadzanie kuratorskie po wystawie
  a: https://www.google.com/maps/search/?api=1&query=49.9985798%2C19.9188829
  \nDojazd: https://www.google.com/maps/dir/?api=1&destination=49.9985798%2C
  19.9188829\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nD
- ane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ ane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Muzeum i Centrum Ruchu Harcerskiego\, ul. Forteczna 28\, 30-437 K
  raków
@@ -947,7 +948,7 @@ DESCRIPTION:warsztaty rodzinne\n\nStrona wydarzenia: https://ma.krakow.pl/
  m\nMapa: https://www.google.com/maps/search/?api=1&query=50.057194%2C19.93
  93905\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.05719
  4%2C19.9393905\n\nSprawdź oznakowanie i dostępność parkingu na miejscu
- .\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ .\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Gmach główny Muzeum Archeologiczne w Krakwie\, Senacka 3\, Krak
  ów
@@ -979,7 +980,7 @@ DESCRIPTION:Między nami a zabytkiem nie stoi już muzealna gablota…\n\n
  — 200 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.057194
  %2C19.9393905\nDojazd: https://www.google.com/maps/dir/?api=1&destination=
  50.057194%2C19.9393905\n\nSprawdź oznakowanie i dostępność parkingu na
-  miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+  miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Gmach główny Muzeum Archeologiczne w Krakwie\, Senacka 3\, Krak
  ów
@@ -1011,7 +1012,7 @@ DESCRIPTION:warsztaty rodzinne\n\nStrona wydarzenia: https://ma.krakow.pl/
  0 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.057194%2C19.
  9393905\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.057
  194%2C19.9393905\n\nSprawdź oznakowanie i dostępność parkingu na miejs
- cu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ cu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Gmach główny Muzeum Archeologiczne w Krakwie\, Senacka 3\, Krak
  ów
@@ -1041,7 +1042,7 @@ DESCRIPTION:Comiesięczna konferencja o AI w Krakowie: prelekcje praktykó
  — 123 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.052229
  4%2C19.9429144\nDojazd: https://www.google.com/maps/dir/?api=1&destination
  =50.0522294%2C19.9429144\n\nSprawdź oznakowanie i dostępność parkingu 
- na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Hevre\, Meiselsa 18\, Kraków
 STATUS:CONFIRMED
@@ -1071,8 +1072,8 @@ DESCRIPTION:24-godzinny Maraton Układania Puzzli\, to wyjątkowe wydarzen
  \nParking z mapy OpenStreetMap — 92 m\nMapa: https://www.google.com/maps
  /search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.co
  m/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowan
- ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42
- :44.601178+01:00
+ ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45
+ :37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:sala C-4\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1102,8 +1103,8 @@ DESCRIPTION:24-godzinny Maraton Układania Puzzli\, to wyjątkowe wydarzen
  \nParking z mapy OpenStreetMap — 92 m\nMapa: https://www.google.com/maps
  /search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.co
  m/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowan
- ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42
- :44.601178+01:00
+ ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45
+ :37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:sala C-4\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1135,7 +1136,7 @@ DESCRIPTION:Akademia Bohaterów Klimatu to program edukacyjny dla uczniów
  google.com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https:
  //www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSpr
  awdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2
- 026-10-25T12:42:44.601178+01:00
+ 026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1166,7 +1167,7 @@ DESCRIPTION:Zaduszkowa Gwiazda Ondřej Havelka and his Melody Makers\n\nSt
   https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414\nD
  ojazd: https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.
  034414\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane 
- sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1196,7 +1197,7 @@ DESCRIPTION:„MURY. 45 lat później” to wydarzenie w rodzaju mini orat
  nStreetMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query
  =50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&de
  stination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność p
- arkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ arkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1226,7 +1227,7 @@ DESCRIPTION:Wystąpi Najmniejsza Scena Świata: Emilia Baczyńska – śpi
  y OpenStreetMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&
  query=50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api
  =1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępno
- ść parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:
+ ść parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:
  00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
@@ -1260,8 +1261,8 @@ DESCRIPTION:Kuratorka Galerii Joanna Gościej-Lewińska zaprasza na wyjąt
  ng z mapy OpenStreetMap — 92 m\nMapa: https://www.google.com/maps/search
  /?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/
  dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i do
- stępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601
- 178+01:00
+ stępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400
+ 079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Galeria Zdzisława Beksińskiego w Krakowie\, al. Jana Pawła II 
  232\, Kraków
@@ -1294,7 +1295,7 @@ DESCRIPTION:„Poruszeni. Praktyka ruchu i relacji”\n\nStrona wydarzenia
  OpenStreetMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&qu
  ery=50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1
  &destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępnoś
- ć parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ ć parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Studio KCC\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1326,7 +1327,7 @@ DESCRIPTION:„Poruszeni. Praktyka ruchu i relacji”\n\nStrona wydarzenia
  OpenStreetMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&qu
  ery=50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1
  &destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępnoś
- ć parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ ć parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Studio KCC\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1358,7 +1359,7 @@ DESCRIPTION:Koncert promujący nową płytę Spiętego pod tytułem „Ful
  google.com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https:
  //www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSpr
  awdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2
- 026-10-25T12:42:44.601178+01:00
+ 026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1389,7 +1390,7 @@ DESCRIPTION:Piąta edycja emocjonującego weekendowego maratonu tworzenia
  com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.g
  oogle.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź o
  znakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-
- 25T12:42:44.601178+01:00
+ 25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Nowohuckie Centrum Kultury\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1420,7 +1421,7 @@ DESCRIPTION:Piąta edycja emocjonującego weekendowego maratonu tworzenia
  com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.g
  oogle.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź o
  znakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-
- 25T12:42:44.601178+01:00
+ 25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Nowohuckie Centrum Kultury\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1451,7 +1452,7 @@ DESCRIPTION:Piąta edycja emocjonującego weekendowego maratonu tworzenia
  com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.g
  oogle.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź o
  znakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-
- 25T12:42:44.601178+01:00
+ 25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Nowohuckie Centrum Kultury\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1481,7 +1482,7 @@ DESCRIPTION:Agma to ekscytujący i doceniony przez krytyków projekt Szymo
  ap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0722
  608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destinatio
  n=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność parkingu 
- na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1512,7 +1513,7 @@ DESCRIPTION:Umbilical Brothers to międzynarodowy fenomen komediowy\, któ
  tMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.07
  22608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destinat
  ion=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność parking
- u na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ u na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1543,7 +1544,7 @@ DESCRIPTION:Wiktor Waligóra – krakowski wokalista\, kompozytor i autor
  apa: https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.03441
  4\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0722608%2
  C20.034414\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nD
- ane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ ane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1573,7 +1574,7 @@ DESCRIPTION:Wystawa w ramach wydarzenia SIŁA FOTOGRAFII 2026 .\n\nStrona
  tMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.07
  22608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destinat
  ion=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność parking
- u na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ u na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Biała Galeria CENTRUM\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1603,7 +1604,7 @@ DESCRIPTION:„Zobaczyć Piosenkę vol. 1″ to wyjątkowe widowisko\, kt
  mapy OpenStreetMap — 92 m\nMapa: https://www.google.com/maps/search/?api
  =1&query=50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?
  api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostęp
- ność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+0
+ ność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+0
  1:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
@@ -1635,7 +1636,7 @@ DESCRIPTION:Po sukcesie poprzednich edycji wracamy z kolejną odsłoną PI
  255 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0328517%2C
  19.9388961\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.
  0328517%2C19.9388961\n\nSprawdź oznakowanie i dostępność parkingu na m
- iejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ iejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Biuro Sii Polska\, ul. Wadowicka 12\, Kraków
 STATUS:CONFIRMED
@@ -1664,8 +1665,8 @@ DESCRIPTION:Renata Przemyk z zespołem oraz Janusz Radek & Adam Drzewiecki
  arking z mapy OpenStreetMap — 92 m\nMapa: https://www.google.com/maps/se
  arch/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.com/m
  aps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie 
- i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44
- .601178+01:00
+ i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37
+ .400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1695,8 +1696,8 @@ DESCRIPTION:Kameralny spektakl w technice teatru cieni dla dzieci w wieku
  \nParking z mapy OpenStreetMap — 92 m\nMapa: https://www.google.com/maps
  /search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.co
  m/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakowan
- ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42
- :44.601178+01:00
+ ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45
+ :37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:sala 014\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1726,7 +1727,7 @@ DESCRIPTION:Paweł Sztompke\, Wojciech Skibiński i Krzysztof Taraszka zap
  penStreetMap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&que
  ry=50.0722608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&
  destination=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność
-  parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+  parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1757,7 +1758,7 @@ DESCRIPTION:Grzegorz Turnau – piosenkarz\, kompozytor\, pianista. Ze swo
  : https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414\n
  Dojazd: https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20
  .034414\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane
-  sprawdzono: 2026-10-25T12:42:44.601178+01:00
+  sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1787,7 +1788,7 @@ DESCRIPTION:Od Casablanki po La la land!\n\nStrona wydarzenia: https://nck
  https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414\nDo
  jazd: https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.0
  34414\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane s
- prawdzono: 2026-10-25T12:42:44.601178+01:00
+ prawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1819,7 +1820,7 @@ DESCRIPTION:Zapraszamy na wyjątkowy wieczór z jedną z najciekawszych po
  google.com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https:
  //www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSpr
  awdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2
- 026-10-25T12:42:44.601178+01:00
+ 026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1850,7 +1851,7 @@ DESCRIPTION:„Kwartet” Bogusława Schaeffera to inteligentny i dowcipny
  — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0722608
  %2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destination=5
  0.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność parkingu na 
- miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Scena NCK\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1881,7 +1882,7 @@ DESCRIPTION:Program spotkania i zasady udziału znajdziesz na stronie orga
  ps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.
  com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakow
  anie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:
- 42:44.601178+01:00
+ 45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Studio KCC\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1913,7 +1914,7 @@ DESCRIPTION:Program spotkania i zasady udziału znajdziesz na stronie orga
  ps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: https://www.google.
  com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n\nSprawdź oznakow
  anie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:
- 42:44.601178+01:00
+ 45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Studio KCC\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1947,7 +1948,7 @@ DESCRIPTION:Warsztat został opracowany z myślą o osobach\, które na co
  92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0722608%2C2
  0.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.07
  22608%2C20.034414\n\nSprawdź oznakowanie i dostępność parkingu na miej
- scu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ scu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:Studio KCC\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -1980,7 +1981,7 @@ DESCRIPTION:Co łączy życie na całej Ziemi? Jaki ruch w nim drzemie? Cz
  www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414\nDojazd: ht
  tps://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414\n
  \nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzo
- no: 2026-10-25T12:42:44.601178+01:00
+ no: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:sala A204\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -2010,7 +2011,7 @@ DESCRIPTION:Lidia Jazgar – śpiew Ryszard Brączek – gitara Galicjowy
  ap — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0722
  608%2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destinatio
  n=50.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność parkingu 
- na miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:sala kameralna 203\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -2039,7 +2040,7 @@ DESCRIPTION:Nowohuckie planszówki z Gralicją!\n\nStrona wydarzenia: http
  — 92 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0722608
  %2C20.034414\nDojazd: https://www.google.com/maps/dir/?api=1&destination=5
  0.0722608%2C20.034414\n\nSprawdź oznakowanie i dostępność parkingu na 
- miejscu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:sala 014\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
@@ -2069,7 +2070,7 @@ DESCRIPTION:Cykl spotkań o ludziach pięknych\, silnych\, pełnych unikat
  2 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0722608%2C20
  .034414\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.072
  2608%2C20.034414\n\nSprawdź oznakowanie i dostępność parkingu na miejs
- cu.\nDane sprawdzono: 2026-10-25T12:42:44.601178+01:00
+ cu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
 LAST-MODIFIED:20261025T113922Z
 LOCATION:sala 203\, al. Jana Pawła II 232\, Kraków
 STATUS:CONFIRMED
