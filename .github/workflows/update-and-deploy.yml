@@ -1,0 +1,59 @@
+name: Aktualizuj wydarzenia i publikuj
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['site/data/**', 'site/*.ics']
+  workflow_dispatch:
+  schedule:
+    - cron: '17 8 * * 3,6'
+      timezone: Europe/Warsaw
+permissions:
+  contents: read
+concurrency:
+  group: krakow-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Testy parserów i kalendarza
+        run: python -m unittest discover -s tests -v
+      - name: Pobierz aktualne wydarzenia i parkingi
+        run: python -u scripts/update.py
+      - name: Sprawdź dane do publikacji
+        run: python scripts/validate.py
+      - name: Zachowaj historię i stan synchronizacji
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data site/*.ics
+          if ! git diff --cached --quiet; then
+            git commit -m 'Aktualizuj krakowskie wydarzenia i kalendarze'
+            git push
+          fi
+      - name: Pakiet GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publikuj stronę i subskrypcje
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,40 @@
+{
+  "title": "Kraków po godzinach",
+  "days": 30,
+  "timezone": "Europe/Warsaw",
+  "site_url": "https://chudelini.github.io/project_events/",
+  "sources": [
+    {
+      "id": "muzeum-krakowa",
+      "name": "Muzeum Krakowa",
+      "url": "https://muzeumkrakowa.pl/kalendarium",
+      "parser": "museum"
+    },
+    {
+      "id": "archeologiczne",
+      "name": "Muzeum Archeologiczne",
+      "url": "https://ma.krakow.pl/events/",
+      "parser": "tribe"
+    },
+    {
+      "id": "aixv",
+      "name": "AI × Voices",
+      "url": "https://aixv.ai/",
+      "parser": "jsonld",
+      "category": "ai"
+    },
+    {
+      "id": "nck",
+      "name": "Nowohuckie Centrum Kultury",
+      "url": "https://nck.krakow.pl/",
+      "parser": "nck"
+    },
+    {
+      "id": "sii",
+      "name": "Sii Polska",
+      "url": "https://sii.pl/wydarzenia/",
+      "parser": "sii",
+      "category": "ai"
+    }
+  ]
+}

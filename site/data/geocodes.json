@@ -1,0 +1,100 @@
+{
+  "Rynek Główny 35, 31-011 Kraków": {
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "label": "Pałac Pod Krzysztofory, 35, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-008, Polska"
+  },
+  "ul. Pomorska 2, 30-039 Kraków": {
+    "coordinates": [
+      50.0706881,
+      19.9249265
+    ],
+    "label": "Ulica Pomorska, 2, Pomorska, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-039, Polska"
+  },
+  "plac Bohaterów Getta 18, 30-547 Kraków": {
+    "coordinates": [
+      50.0462364,
+      19.9541481
+    ],
+    "label": "Apteka Pod Orłem, 18, Plac Bohaterów Getta, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-530, Polska"
+  },
+  "Rynek Główny 1, 31-042 Kraków": {
+    "coordinates": [
+      50.0614858,
+      19.9364149
+    ],
+    "label": "Wieża Ratuszowa, 1, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-001, Polska"
+  },
+  "Senacka 3, Kraków": {
+    "coordinates": [
+      50.0576559,
+      19.9366789
+    ],
+    "label": "3, Senacka, Stare Miasto, Kraków, województwo małopolskie, 31-001, Polska"
+  },
+  "Meiselsa 18, Kraków": {
+    "coordinates": [
+      50.0511519,
+      19.9433276
+    ],
+    "label": "18, Beera Meiselsa, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-063, Polska"
+  },
+  "al. Jana Pawła II 232, Kraków": {
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "label": "Max Grill, 232, Aleja Jana Pawła II, Nowa Huta, Kraków, województwo małopolskie, 31-982, Polska"
+  },
+  "ul. Forteczna 28, 30-437 Kraków": {
+    "coordinates": [
+      49.9979181,
+      19.9168233
+    ],
+    "label": "Muzeum i Centrum Ruchu Harcerskiego, 28, Forteczna, Kliny Poranne, Kliny, Swoszowice, Kraków, województwo małopolskie, 30-437, Polska"
+  },
+  "Muzeum Sztuki i Techniki Japońskiej Manggha, ul. Marii Konopnickiej 26, Kraków.": {
+    "coordinates": [
+      50.0508331,
+      19.9316472
+    ],
+    "label": "Muzeum Sztuki i Techniki Japońskiej Manggha, 26, Marii Konopnickiej, Dębniki, Kraków, województwo małopolskie, 30-302, Polska"
+  },
+  "ul. Bolesława Limanowskiego 51, 30-551 Kraków": {
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "label": "51, Bolesława Limanowskiego, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-528, Polska"
+  },
+  "ul. Lipowa 4, 30-702 Kraków": {
+    "coordinates": [
+      50.0478769,
+      19.9613687
+    ],
+    "label": "Muzeum Sztuki Współczesnej w Krakowie, 4, Lipowa, Zabłocie, Podgórze, Kraków, województwo małopolskie, 30-702, Polska"
+  },
+  "ul. Włodzimierza Tetmajera 28, 31-352 Kraków": {
+    "coordinates": [
+      50.08784,
+      19.878055
+    ],
+    "label": "Rydlówka, 28, Włodzimierza Tetmajera, Bronowice Małe, Bronowice, Kraków, województwo małopolskie, 31-398, Polska"
+  },
+  "Miejsce zbiórki: plac przed kościołem św. Szczepana, ul. Sienkiewicza 19": {
+    "coordinates": [
+      50.0719002,
+      19.9270151
+    ],
+    "label": "19, Henryka Sienkiewicza, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-033, Polska"
+  },
+  "ul. Wadowicka 12, Kraków": {
+    "coordinates": [
+      50.030601,
+      19.9382256
+    ],
+    "label": "12, Wadowicka, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-415, Polska"
+  }
+}

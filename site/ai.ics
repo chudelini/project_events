@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Krakow po godzinach//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kraków po godzinach · ai
+REFRESH-INTERVAL:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:EDUKATORIUM 2026: Sztuka edukacji – edukacja sztuki
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20261025T113613Z
+UID:f07f750617f0a54b0a15e432@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:ai
+CREATED:20261025T113613Z
+DESCRIPTION:ZAŁOŻENIA OGÓLNE CYKLU: Sympozjum to kolejna odsłona cyklu
+  spotkań zapoczątkowanych w roku 2023. Realizowane jest przez Muzeum Kra
+ kowa (MK) oraz Uniwersytet Komisji…\n\nStrona wydarzenia: https://muzeum
+ krakowa.pl/kalendarium/edukatorium-2026-sztuka-edukacji-edukacja-sztuki\nM
+ iejsce: Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków\nWstęp: 
+ Bezpłatne\nJęzyk: do sprawdzenia\nGoogle Maps: https://www.google.com/ma
+ ps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2
+ C+31-011+Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&desti
+ nation=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3
+ %B3w\nGodzina nie została podana\; sprawdź program organizatora.\n\nNajb
+ liższe parkingi w bazie OSM (odległość w linii prostej):\nParking z ma
+ py OpenStreetMap — 374 m\nMapa: https://www.google.com/maps/search/?api=
+ 1&query=50.0661974%2C19.9354564\nDojazd: https://www.google.com/maps/dir/?
+ api=1&destination=50.0661974%2C19.9354564\nParking z mapy OpenStreetMap 
+ — 434 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.063071
+ 4%2C19.9303023\nDojazd: https://www.google.com/maps/dir/?api=1&destination
+ =50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dostępność parkingu 
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:39:22.670658+01:00
+LAST-MODIFIED:20261025T113613Z
+LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/edukatorium-2026-sztuka-edukacji-
+ edukacja-sztuki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI x Voices #2
+DTSTART:20261112T170000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261025T113613Z
+UID:b928148687c3919fc398ed29@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:ai
+CREATED:20261025T113613Z
+DESCRIPTION:Comiesięczna konferencja o AI w Krakowie: prelekcje praktykó
+ w\, przerwy kawowe i afterparty. Wstęp bezpłatny.\n\nStrona wydarzenia: 
+ https://aixv.ai/edycje/2\nMiejsce: Hevre\, Meiselsa 18\, Kraków\nWstęp: 
+ Bezpłatne\nJęzyk: pl / en\nGoogle Maps: https://www.google.com/maps/sear
+ ch/?api=1&query=Hevre+Meiselsa+18%2C+Krak%C3%B3w\nDojazd: https://www.goog
+ le.com/maps/dir/?api=1&destination=Hevre+Meiselsa+18%2C+Krak%C3%B3w\n\nNaj
+ bliższe parkingi w bazie OSM (odległość w linii prostej):\nParking z m
+ apy OpenStreetMap — 116 m\nMapa: https://www.google.com/maps/search/?api
+ =1&query=50.0521916%2C19.9433769\nDojazd: https://www.google.com/maps/dir/
+ ?api=1&destination=50.0521916%2C19.9433769\nParking z mapy OpenStreetMap 
+ — 123 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.052229
+ 4%2C19.9429144\nDojazd: https://www.google.com/maps/dir/?api=1&destination
+ =50.0522294%2C19.9429144\n\nSprawdź oznakowanie i dostępność parkingu 
+ na miejscu.\nDane sprawdzono: 2026-10-25T12:39:22.670658+01:00
+LAST-MODIFIED:20261025T113613Z
+LOCATION:Hevre\, Meiselsa 18\, Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aixv.ai/edycje/2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pie & AI w Krakowie\, czyli czwarty przystanek Sii AI Tour
+DTSTART:20261027T153000Z
+DTEND:20261027T190000Z
+DTSTAMP:20261025T113613Z
+UID:44d43f1377825c90aa459429@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:ai
+CREATED:20261025T113613Z
+DESCRIPTION:Po sukcesie poprzednich edycji wracamy z kolejną odsłoną PI
+ E & AI – technologicznego meetupu dla wszystkich\, którzy chcą rozumie
+ ć\, projektować i wdrażać AI w realnym…\n\nStrona wydarzenia: https:
+ //sii.pl/wydarzenia/pie-ai-w-krakowie/\nMiejsce: Biuro Sii Polska\, ul. Wa
+ dowicka 12\, Kraków\nWstęp: Sprawdź u organizatora\nJęzyk: pl\nGoogle 
+ Maps: https://www.google.com/maps/search/?api=1&query=Biuro+Sii+Polska+ul.
+ +Wadowicka+12%2C+Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api
+ =1&destination=Biuro+Sii+Polska+ul.+Wadowicka+12%2C+Krak%C3%B3w\n\nNajbli
+ ższe parkingi w bazie OSM (odległość w linii prostej):\nParking z mapy
+  OpenStreetMap — 234 m\nMapa: https://www.google.com/maps/search/?api=1&
+ query=50.0316604%2C19.9410522\nDojazd: https://www.google.com/maps/dir/?ap
+ i=1&destination=50.0316604%2C19.9410522\nParking z mapy OpenStreetMap — 
+ 255 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0328517%2C
+ 19.9388961\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.
+ 0328517%2C19.9388961\n\nSprawdź oznakowanie i dostępność parkingu na m
+ iejscu.\nDane sprawdzono: 2026-10-25T12:39:22.670658+01:00
+LAST-MODIFIED:20261025T113613Z
+LOCATION:Biuro Sii Polska\, ul. Wadowicka 12\, Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://sii.pl/wydarzenia/pie-ai-w-krakowie/
+END:VEVENT
+END:VCALENDAR

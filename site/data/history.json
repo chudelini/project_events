@@ -1,0 +1,3745 @@
+[
+  {
+    "id": "0af8ba03b295bb01da1a6d8c@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Finisaż wystawy „Kunszt i fach. Kraków rzemieślników”",
+    "url": "https://muzeumkrakowa.pl/kalendarium/finisaz-wystawy-kunszt-i-fach-krakow-rzemieslnikow",
+    "start": "2026-10-25T00:00:00+02:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Program: 11:00-12:30 - oprowadzanie kuratorskie, prowadzenie: dr Katarzyna Moskal (kuratorka wystawy, Muzeum Krakowa) 13:00-13:30 - muzyka klasyczna na żywo na wystawie…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Sprawdź u organizatora",
+    "free": null,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": true,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "2ee5078111357dad957ff8f4@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Oprowadzanie kuratorskie po wystawie \"Fort Jugowice. Dziedzictwo miejsca\"",
+    "url": "https://muzeumkrakowa.pl/kalendarium/oprowadzanie-kuratorskie-po-wystawie-fort-jugowice-dziedzictwo-miejsca",
+    "start": "2026-10-25T14:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum i Centrum Ruchu Harcerskiego",
+    "address": "ul. Forteczna 28, 30-437 Kraków",
+    "description": "Zapraszamy na niedzielne oprowadzanie kuratorskie po wystawie stałej „Fort Jugowice. Dziedzictwo miejsca”. Będzie to wyjątkowa okazja, aby poznać nie tylko sam Fort 52a…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+i+Centrum+Ruchu+Harcerskiego+ul.+Forteczna+28%2C+30-437+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+i+Centrum+Ruchu+Harcerskiego+ul.+Forteczna+28%2C+30-437+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+i+Centrum+Ruchu+Harcerskiego+ul.+Forteczna+28%2C+30-437+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      49.9979181,
+      19.9168233
+    ],
+    "parking": [
+      {
+        "id": "way/372210144",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          49.998859,
+          19.9175268
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 116,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=49.998859%2C19.9175268",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=49.998859%2C19.9175268",
+        "osmUrl": "https://www.openstreetmap.org/way/372210144"
+      },
+      {
+        "id": "way/161844258",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          49.9985798,
+          19.9188829
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 165,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=49.9985798%2C19.9188829",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=49.9985798%2C19.9188829",
+        "osmUrl": "https://www.openstreetmap.org/way/161844258"
+      }
+    ]
+  },
+  {
+    "id": "35ebdb2bc2ecad4e6524cdbd@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Kraków. Biografia miasta - premiera książki autorstwa dr Michała Niezabitowskiego",
+    "url": "https://muzeumkrakowa.pl/kalendarium/krakow-biografia-miasta-premiera-ksiazki-autorstwa-dr-michala-niezabitowskiego",
+    "start": "2026-10-27T18:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum Sztuki i Techniki Japońskiej Manggha",
+    "address": "Muzeum Sztuki i Techniki Japońskiej Manggha, ul. Marii Konopnickiej 26, Kraków.",
+    "description": "Wydawnictwo Znak Horyzont wraz z autorem Michałem Niezabitowskim oraz gospodarzem spotkania Robertem Makłowiczem, mają przyjemność zaprosić na wyjątkowy wieczór…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Sprawdź u organizatora",
+    "free": null,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Sztuki+i+Techniki+Japo%C5%84skiej+Manggha+Muzeum+Sztuki+i+Techniki+Japo%C5%84skiej+Manggha%2C+ul.+Marii+Konopnickiej+26%2C+Krak%C3%B3w.",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Sztuki+i+Techniki+Japo%C5%84skiej+Manggha+Muzeum+Sztuki+i+Techniki+Japo%C5%84skiej+Manggha%2C+ul.+Marii+Konopnickiej+26%2C+Krak%C3%B3w.",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Sztuki+i+Techniki+Japo%C5%84skiej+Manggha+Muzeum+Sztuki+i+Techniki+Japo%C5%84skiej+Manggha%2C+ul.+Marii+Konopnickiej+26%2C+Krak%C3%B3w.",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0508331,
+      19.9316472
+    ],
+    "parking": [
+      {
+        "id": "node/2135053508",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0493448,
+          19.9274049
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 345,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0493448%2C19.9274049",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0493448%2C19.9274049",
+        "osmUrl": "https://www.openstreetmap.org/node/2135053508"
+      },
+      {
+        "id": "way/1315042276",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0493646,
+          19.9368144
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 403,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0493646%2C19.9368144",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0493646%2C19.9368144",
+        "osmUrl": "https://www.openstreetmap.org/way/1315042276"
+      }
+    ]
+  },
+  {
+    "id": "ffc736e70cbeb84acf198b3a@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Oprowadzanie kuratorskie po wystawie „Miasto pod Kopcem Kraka”",
+    "url": "https://muzeumkrakowa.pl/kalendarium/oprowadzanie-kuratorskie-po-wystawie-miasto-pod-kopcem-kraka",
+    "start": "2026-10-28T17:30:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "Co znaleziono w kopcu Kraka? Do czego służyła tajemnicza kłódka prezentowana na wystawie? I kto znajduje się w herbie Podgórza i dlaczego? Na te i wiele innych pytań…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Sprawdź u organizatora",
+    "free": null,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "bc1229679f477c318c0c0f9e@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Warsztaty mistrzowskie dla młodych szopkarek i szopkarzy",
+    "url": "https://muzeumkrakowa.pl/kalendarium/warsztaty-mistrzowskie-dla-mlodych-szopkarek-i-szopkarzy-5",
+    "start": "2026-10-29T17:30:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Warsztaty przeznaczone są dla młodego pokolenia (od 14. roku życia), którzy biorą udział w Konkursie Szopek i chcą rozwijać swoje umiejętności twórcze. Przewidywana jest…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "77c0f9a07e2c36db0414bb52@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Wieczór z kokardą",
+    "url": "https://muzeumkrakowa.pl/kalendarium/wieczor-z-kokarda-1",
+    "start": "2026-10-29T18:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "Podczas gdy cała Polska świętuje odzyskanie Niepodległości 11 listopada, my w Podgórzu cieszymy się z Wolności dużo wcześniej, bo już 31 października. Dlaczego? Bo…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "4fe9f0c0566ddea898ec2cbe@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Kostium na każdą legendę: Krzysztofor Wielki i Pan Twardowski",
+    "url": "https://muzeumkrakowa.pl/kalendarium/kostium-na-kazda-legende-krzysztofor-wielki-i-pan-twardowski",
+    "start": "2026-10-31T10:00:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Kraków to zaczarowane miasto, nie tylko symbolicznie. Tu czasem naprawdę czuć magię unoszącą się w powietrzu na naszych ulicach. Tak było zawsze, zwłaszcza w czasach…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "fbe1193661a36e43a2e977de@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "„Fabryka Schindlera – historie miejsca” – inkluzywne oprowadzanie po wystawie czasowej z pomocami sensorycznymi i elementami audiodeskrypcji AD",
+    "url": "https://muzeumkrakowa.pl/kalendarium/fabryka-schindlera-historie-miejsca-inkluzywne-oprowadzanie-po-wystawie-czasowej-z-pomocami-sensorycznymi-i-elementami-audiodeskrypcji-ad",
+    "start": "2026-11-04T16:00:00+01:00",
+    "end": null,
+    "venue": "Fabryka Emalia Oskara Schindlera",
+    "address": "ul. Lipowa 4, 30-702 Kraków",
+    "description": "Mieszcząca się na krakowskim Zabłociu fabryka naczyń emaliowanych zyskała niezwykłą popularność dzięki filmowi Stevena Spilberga „Lista Schindlera”. Dziś historia…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fabryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Fabryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Fabryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0478769,
+      19.9613687
+    ],
+    "parking": [
+      {
+        "id": "way/306992937",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0473054,
+          19.9579347
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 253,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0473054%2C19.9579347",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0473054%2C19.9579347",
+        "osmUrl": "https://www.openstreetmap.org/way/306992937"
+      },
+      {
+        "id": "way/1263777588",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0492295,
+          19.9644492
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 266,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0492295%2C19.9644492",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0492295%2C19.9644492",
+        "osmUrl": "https://www.openstreetmap.org/way/1263777588"
+      }
+    ]
+  },
+  {
+    "id": "8f31a95c58bf70ce832862bb@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Szopkarskie warsztaty mistrzowskie dla dorosłych - poziom podstawowy",
+    "url": "https://muzeumkrakowa.pl/kalendarium/szopkarskie-warsztaty-mistrzowskie-dla-doroslych-poziom-podstawowy-5",
+    "start": "2026-11-04T18:00:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Warsztaty przeznaczone są dla osób dorosłych, które chcą rozwinąć swoje umiejętności budowy szopek krakowskich (brały udział w Konkursie Szopek lub mają zamiar…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "b1454fad3fc988a97858c862@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Działalność Armii Krajowej w krakowskim Prokocimiu.",
+    "url": "https://muzeumkrakowa.pl/kalendarium/dzialalnosc-armii-krajowej-w-krakowskim-prokocimiu",
+    "start": "2026-11-05T17:00:00+01:00",
+    "end": null,
+    "venue": "Ulica Pomorska",
+    "address": "ul. Pomorska 2, 30-039 Kraków",
+    "description": "Prokocim był miejscem działalności 2. kompanii IV Odcinka „Wapno” Obwodu AK Kraków-Miasto, formacji podlegające krakowskiemu zgrupowaniu „Żelbet”. Spotkanie przybliży…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ulica+Pomorska+ul.+Pomorska+2%2C+30-039+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Ulica+Pomorska+ul.+Pomorska+2%2C+30-039+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Ulica+Pomorska+ul.+Pomorska+2%2C+30-039+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0706881,
+      19.9249265
+    ],
+    "parking": [
+      {
+        "id": "way/1441661431",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0707126,
+          19.9251554
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 17,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0707126%2C19.9251554",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0707126%2C19.9251554",
+        "osmUrl": "https://www.openstreetmap.org/way/1441661431"
+      },
+      {
+        "id": "way/1441684835",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0705117,
+          19.9249915
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 20,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0705117%2C19.9249915",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0705117%2C19.9249915",
+        "osmUrl": "https://www.openstreetmap.org/way/1441684835"
+      }
+    ]
+  },
+  {
+    "id": "eee2d581597f6841dd4a2f1f@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Szopkarskie warsztaty mistrzowskie dla dorosłych - poziom zaawansowany",
+    "url": "https://muzeumkrakowa.pl/kalendarium/szopkarskie-warsztaty-mistrzowskie-dla-doroslych-poziom-zaawansowany-5",
+    "start": "2026-11-05T18:00:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Warsztaty przeznaczone są dla osób dorosłych, które chcą rozwinąć swoje umiejętności budowy szopek krakowskich (brały udział w Konkursie Szopek lub mają zamiar…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "a3aaf060c4a60d057adb4cd2@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Malarze i suchotnicy. Opowieść o dawnym sanatorium Dłuskich.",
+    "url": "https://muzeumkrakowa.pl/kalendarium/malarze-i-suchotnicy-opowiesc-o-dawnym-sanatorium-dluskich",
+    "start": "2026-11-05T18:00:00+01:00",
+    "end": null,
+    "venue": "Rydlówka",
+    "address": "ul. Włodzimierza Tetmajera 28, 31-352 Kraków",
+    "description": "Zapraszamy na spotkanie z cyklu „Herbatka u Rydlów \"! Opowieść o dawnym sanatorium w Kościelisku to zapomniana historia rodzimej „czarodziejskiej góry”, pierwszego na…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.08784,
+      19.878055
+    ],
+    "parking": [
+      {
+        "id": "way/1151264578",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0874673,
+          19.8762468
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 135,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0874673%2C19.8762468",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0874673%2C19.8762468",
+        "osmUrl": "https://www.openstreetmap.org/way/1151264578"
+      },
+      {
+        "id": "way/339126109",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0870513,
+          19.8752515
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 218,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0870513%2C19.8752515",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0870513%2C19.8752515",
+        "osmUrl": "https://www.openstreetmap.org/way/339126109"
+      }
+    ]
+  },
+  {
+    "id": "f07f750617f0a54b0a15e432@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "EDUKATORIUM 2026: Sztuka edukacji – edukacja sztuki",
+    "url": "https://muzeumkrakowa.pl/kalendarium/edukatorium-2026-sztuka-edukacji-edukacja-sztuki",
+    "start": "2026-11-06T00:00:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "ZAŁOŻENIA OGÓLNE CYKLU: Sympozjum to kolejna odsłona cyklu spotkań zapoczątkowanych w roku 2023. Realizowane jest przez Muzeum Krakowa (MK) oraz Uniwersytet Komisji…",
+    "category": "ai",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": true,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "2884e0c7e90c88d5c394f295@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Akademia Kraków: Ulica Łobzowska",
+    "url": "https://muzeumkrakowa.pl/kalendarium/akademia-krakow-ulica-lobzowska",
+    "start": "2026-11-07T11:00:00+01:00",
+    "end": null,
+    "venue": "plac przed kościołem św. Szczepana",
+    "address": "Miejsce zbiórki: plac przed kościołem św. Szczepana, ul. Sienkiewicza 19",
+    "description": "Współczesna ulica Łobzowska była jedną z głównych dróg podkrakowskiej jurydyki Garbary, a jej obecna nazwa pojawiła się w 1858 roku i odnosi się do szlaku prowadzącego…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "30 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=plac+przed+ko%C5%9Bcio%C5%82em+%C5%9Bw.+Szczepana+Miejsce+zbi%C3%B3rki%3A+plac+przed+ko%C5%9Bcio%C5%82em+%C5%9Bw.+Szczepana%2C+ul.+Sienkiewicza+19",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=plac+przed+ko%C5%9Bcio%C5%82em+%C5%9Bw.+Szczepana+Miejsce+zbi%C3%B3rki%3A+plac+przed+ko%C5%9Bcio%C5%82em+%C5%9Bw.+Szczepana%2C+ul.+Sienkiewicza+19",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+plac+przed+ko%C5%9Bcio%C5%82em+%C5%9Bw.+Szczepana+Miejsce+zbi%C3%B3rki%3A+plac+przed+ko%C5%9Bcio%C5%82em+%C5%9Bw.+Szczepana%2C+ul.+Sienkiewicza+19",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0719002,
+      19.9270151
+    ],
+    "parking": [
+      {
+        "id": "way/1443546577",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0718407,
+          19.9272494
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 18,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0718407%2C19.9272494",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0718407%2C19.9272494",
+        "osmUrl": "https://www.openstreetmap.org/way/1443546577"
+      },
+      {
+        "id": "way/1437098150",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0720668,
+          19.9268474
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 22,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0720668%2C19.9268474",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0720668%2C19.9268474",
+        "osmUrl": "https://www.openstreetmap.org/way/1437098150"
+      }
+    ]
+  },
+  {
+    "id": "223cb109eb1102d897bef987@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "„Te sceny zostaną na zawsze w pamięci” - 84. rocznica deportacji październikowej z krakowskiego getta",
+    "url": "https://muzeumkrakowa.pl/kalendarium/te-sceny-zostana-na-zawsze-w-pamieci-84-rocznica-deportacji-pazdziernikowej-z-krakowskiego-getta-1",
+    "start": "2026-11-08T12:00:00+01:00",
+    "end": null,
+    "venue": "Apteka pod Orłem",
+    "address": "plac Bohaterów Getta 18, 30-547 Kraków",
+    "description": "Zapraszamy na spacer upamiętniający, połączony z prezentacją wystawy plenerowej na Placu Bohaterów Getta. W dniu 28 października 1942 roku Niemcy przeprowadzili kolejną…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "20 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Apteka+pod+Or%C5%82em+plac+Bohater%C3%B3w+Getta+18%2C+30-547+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Apteka+pod+Or%C5%82em+plac+Bohater%C3%B3w+Getta+18%2C+30-547+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Apteka+pod+Or%C5%82em+plac+Bohater%C3%B3w+Getta+18%2C+30-547+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0462364,
+      19.9541481
+    ],
+    "parking": [
+      {
+        "id": "way/306984735",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0477262,
+          19.9551713
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 181,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0477262%2C19.9551713",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0477262%2C19.9551713",
+        "osmUrl": "https://www.openstreetmap.org/way/306984735"
+      },
+      {
+        "id": "way/1217062019",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0476795,
+          19.9522114
+        ],
+        "fee": "unknown",
+        "access": "yes",
+        "distanceMeters": 212,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0476795%2C19.9522114",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0476795%2C19.9522114",
+        "osmUrl": "https://www.openstreetmap.org/way/1217062019"
+      }
+    ]
+  },
+  {
+    "id": "2240df82302d9353b33ca57c@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Kostium na każdą legendę „Smok Wawelski i Książę Krak”",
+    "url": "https://muzeumkrakowa.pl/kalendarium/kostium-na-kazda-legende-smok-wawelski-i-ksiaze-krak",
+    "start": "2026-11-14T10:00:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Znacie historię walki walecznego szewczyka i okrutnego smoka? Zaraz, zaraz, a to nie był Krak? Albo jego synowie… Wersji tej znanej legendy jest kilka, ale wszystkie są…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "6ba7161b5feb3a87db629c1d@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Księgi Krzysztoforskie „Bitwa magów”",
+    "url": "https://muzeumkrakowa.pl/kalendarium/ksiegi-krzysztoforskie-bitwa-magow",
+    "start": "2026-11-15T11:00:00+01:00",
+    "end": null,
+    "venue": "Pałac Krzysztofory",
+    "address": "Rynek Główny 35, 31-011 Kraków",
+    "description": "Na czwartkowy obiad do Pałacu Krzysztofory przybywa Pan Twardowski. Pojawia się tu na zaproszenie Krzysztofora Wielkiego. Daniem głównym ma być rosół z koguta, który…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Pa%C5%82ac+Krzysztofory+Rynek+G%C5%82%C3%B3wny+35%2C+31-011+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0628889,
+      19.936369
+    ],
+    "parking": [
+      {
+        "id": "way/1565834021",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0661974,
+          19.9354564
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 374,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0661974%2C19.9354564",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0661974%2C19.9354564",
+        "osmUrl": "https://www.openstreetmap.org/way/1565834021"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 434,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "fa6c85744d08360c9fc2a369@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "„Hotel Forum i jego niezwykłe dzieje” – oprowadzanie po wystawie czasowej z pomocami sensorycznymi i tłumaczeniem na Polski Język Migowy PJM",
+    "url": "https://muzeumkrakowa.pl/kalendarium/hotel-forum-i-jego-niezwykle-dzieje-oprowadzanie-po-wystawie-czasowej-z-pomocami-sensorycznymi-i-tlumaczeniem-na-polski-jezyk-migowy-pjm",
+    "start": "2026-11-18T16:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "Wyrazisty w architektonicznej formie, znakomity przykład brutalizmu, żelbetowa dominanta krajobrazu niegdyś kameralnego Ludwinowa. Hotel Forum nie miał szczęścia do…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "e67531c8c670f0ad1bad3105@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Hotele z importu",
+    "url": "https://muzeumkrakowa.pl/kalendarium/hotele-z-importu",
+    "start": "2026-11-18T18:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "W latach 70. XX wieku zapowiadano budowę „drugiej Polski”. Jej wizerunek miały kreować nowoczesne wieżowce w stylu zachodnim. To właśnie wtedy przystąpiono do budowy…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "206c507337d7925715cfa698@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Po śladach legendy Hotelu Forum – oprowadzanie dla rodziców w ramach Muzeum od Kołyski",
+    "url": "https://muzeumkrakowa.pl/kalendarium/po-sladach-legendy-hotelu-forum-oprowadzanie-dla-rodzicow-w-ramach-muzeum-od-kolyski",
+    "start": "2026-11-19T10:30:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "Żelbetowa dominanta krajobrazu Ludwinowa. Tak można opisać Hotel Forum, jeden z najbardziej charakterystycznych przykładów architektury brutalistycznej w Krakowie…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "30 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "e27c12192a34dc462486b94c@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Rynek krakowski, którego nie ma - Historyczna topografia głównej przestrzeni publicznej miasta",
+    "url": "https://muzeumkrakowa.pl/kalendarium/rynek-krakowski-ktorego-nie-ma-historyczna-topografia-glownej-przestrzeni-publicznej-miasta-1",
+    "start": "2026-11-19T17:00:00+01:00",
+    "end": null,
+    "venue": "Rynek Podziemny",
+    "address": "Rynek Główny 1, 31-042 Kraków",
+    "description": "Współczesne oblicze rynku krakowskiego stanowi w dużej mierze efekt przeobrażeń zachodzących w ciągu ostatnich dwóch wieków. Wywodząca się z oświeceniowej urbanistyki…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "30 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rynek+Podziemny+Rynek+G%C5%82%C3%B3wny+1%2C+31-042+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Rynek+Podziemny+Rynek+G%C5%82%C3%B3wny+1%2C+31-042+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Rynek+Podziemny+Rynek+G%C5%82%C3%B3wny+1%2C+31-042+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0614858,
+      19.9364149
+    ],
+    "parking": [
+      {
+        "id": "way/234010338",
+        "name": "Parking franciszkanów",
+        "coordinates": [
+          50.0583338,
+          19.9361478
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 351,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0583338%2C19.9361478",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0583338%2C19.9361478",
+        "osmUrl": "https://www.openstreetmap.org/way/234010338"
+      },
+      {
+        "id": "way/1396231184",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0630714,
+          19.9303023
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 471,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0630714%2C19.9303023",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023",
+        "osmUrl": "https://www.openstreetmap.org/way/1396231184"
+      }
+    ]
+  },
+  {
+    "id": "d88e5d83504b3c45465ada6d@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "\"Weźże zobacz” – Kraków w archiwach TVP3 Kraków",
+    "url": "https://muzeumkrakowa.pl/kalendarium/wezze-zobacz-krakow-w-archiwach-tvp3-krakow-1",
+    "start": "2026-11-19T17:30:00+01:00",
+    "end": null,
+    "venue": "Rydlówka",
+    "address": "ul. Włodzimierza Tetmajera 28, 31-352 Kraków",
+    "description": "Jak naprawdę wyglądało wesele, które na zawsze zmieniło polską kulturę? Co po latach wspominał brat panny młodej i zarazem bezpośredni bohater dramatu Wyspiańskiego?…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.08784,
+      19.878055
+    ],
+    "parking": [
+      {
+        "id": "way/1151264578",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0874673,
+          19.8762468
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 135,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0874673%2C19.8762468",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0874673%2C19.8762468",
+        "osmUrl": "https://www.openstreetmap.org/way/1151264578"
+      },
+      {
+        "id": "way/339126109",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0870513,
+          19.8752515
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 218,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0870513%2C19.8752515",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0870513%2C19.8752515",
+        "osmUrl": "https://www.openstreetmap.org/way/339126109"
+      }
+    ]
+  },
+  {
+    "id": "6e9ec6c28146326adb3849a3@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Osadzanie Chochoła",
+    "url": "https://muzeumkrakowa.pl/kalendarium/osadzanie-chochola",
+    "start": "2026-11-21T00:00:00+01:00",
+    "end": null,
+    "venue": "Rydlówka",
+    "address": "ul. Włodzimierza Tetmajera 28, 31-352 Kraków",
+    "description": "Osadzanie Chochoła, to wyjątkowe wydarzenie złożone z trzech części. Uroczyste okrycie róży słomą, poprzedza barwny weselny korowód, który przechodzi ulicami Bronowic…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Rydl%C3%B3wka+ul.+W%C5%82odzimierza+Tetmajera+28%2C+31-352+Krak%C3%B3w",
+    "timeUnknown": true,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.08784,
+      19.878055
+    ],
+    "parking": [
+      {
+        "id": "way/1151264578",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0874673,
+          19.8762468
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 135,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0874673%2C19.8762468",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0874673%2C19.8762468",
+        "osmUrl": "https://www.openstreetmap.org/way/1151264578"
+      },
+      {
+        "id": "way/339126109",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0870513,
+          19.8752515
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 218,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0870513%2C19.8752515",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0870513%2C19.8752515",
+        "osmUrl": "https://www.openstreetmap.org/way/339126109"
+      }
+    ]
+  },
+  {
+    "id": "45d1a1908fe20a480742c877@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Światło formy – warsztaty projektowania lamp w duchu lat 70.",
+    "url": "https://muzeumkrakowa.pl/kalendarium/swiatlo-formy-warsztaty-projektowania-lamp-w-duchu-lat-70",
+    "start": "2026-11-21T10:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "Czy zastanawialiście się kiedyś, jak przenieść klimat krakowskiego Forum do własnego wnętrza? Podczas naszych warsztatów poczujecie się jak projektanci z lat 70. kiedy w…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "50 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "aa32b5a9b3564e5617dcf77c@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Wydzierankowe pejzaże",
+    "url": "https://muzeumkrakowa.pl/kalendarium/wydzierankowe-pejzaze",
+    "start": "2026-11-21T11:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum Podgórza",
+    "address": "ul. Bolesława Limanowskiego 51, 30-551 Kraków",
+    "description": "Współcześni artyści często wykorzystują różne nietypowe techniki do tworzenia obrazów. Na wystawie „Hotel Forum” zobaczymy widok hotelu w technice wydzieranki, której…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0427035,
+      19.9606756
+    ],
+    "parking": [
+      {
+        "id": "way/1553645591",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0428349,
+          19.9604343
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 23,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0428349%2C19.9604343",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0428349%2C19.9604343",
+        "osmUrl": "https://www.openstreetmap.org/way/1553645591"
+      },
+      {
+        "id": "node/6449762525",
+        "name": "Kiss & Ride",
+        "coordinates": [
+          50.0417106,
+          19.9613788
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 121,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0417106%2C19.9613788",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0417106%2C19.9613788",
+        "osmUrl": "https://www.openstreetmap.org/node/6449762525"
+      }
+    ]
+  },
+  {
+    "id": "245bee12f77de68e667753bc@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Zbudujmy razem radioodbiornik - warsztaty rodzinne",
+    "url": "https://muzeumkrakowa.pl/kalendarium/zbudujmy-razem-radioodbiornik-warsztaty-rodzinne",
+    "start": "2026-11-21T11:00:00+01:00",
+    "end": null,
+    "venue": "Fabryka Emalia Oskara Schindlera",
+    "address": "ul. Lipowa 4, 30-702 Kraków",
+    "description": "Czy zastanawiałeś się, jak działają radioodbiorniki i co sprawia, że możemy słuchać ulubionych stacji radiowych? Czy marzyłeś o tym, aby stworzyć swoje własne radio? Na…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fabryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Fabryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Fabryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0478769,
+      19.9613687
+    ],
+    "parking": [
+      {
+        "id": "way/306992937",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0473054,
+          19.9579347
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 253,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0473054%2C19.9579347",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0473054%2C19.9579347",
+        "osmUrl": "https://www.openstreetmap.org/way/306992937"
+      },
+      {
+        "id": "way/1263777588",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0492295,
+          19.9644492
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 266,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0492295%2C19.9644492",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0492295%2C19.9644492",
+        "osmUrl": "https://www.openstreetmap.org/way/1263777588"
+      }
+    ]
+  },
+  {
+    "id": "67304af6be47168a2799a76e@krakow-po-godzinach",
+    "sourceId": "muzeum-krakowa",
+    "sourceName": "Muzeum Krakowa",
+    "title": "Oprowadzanie kuratorskie po wystawie \"Fort Jugowice. Dziedzictwo miejsca\"",
+    "url": "https://muzeumkrakowa.pl/kalendarium/oprowadzanie-kuratorskie-po-wystawie-fort-jugowice-dziedzictwo-miejsca-1",
+    "start": "2026-11-22T14:00:00+01:00",
+    "end": null,
+    "venue": "Muzeum i Centrum Ruchu Harcerskiego",
+    "address": "ul. Forteczna 28, 30-437 Kraków",
+    "description": "Zapraszamy na niedzielne oprowadzanie kuratorskie po wystawie stałej „Fort Jugowice. Dziedzictwo miejsca”. Będzie to wyjątkowa okazja, aby poznać nie tylko sam Fort 52a…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzeum+i+Centrum+Ruchu+Harcerskiego+ul.+Forteczna+28%2C+30-437+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Muzeum+i+Centrum+Ruchu+Harcerskiego+ul.+Forteczna+28%2C+30-437+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Muzeum+i+Centrum+Ruchu+Harcerskiego+ul.+Forteczna+28%2C+30-437+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      49.9979181,
+      19.9168233
+    ],
+    "parking": [
+      {
+        "id": "way/372210144",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          49.998859,
+          19.9175268
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 116,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=49.998859%2C19.9175268",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=49.998859%2C19.9175268",
+        "osmUrl": "https://www.openstreetmap.org/way/372210144"
+      },
+      {
+        "id": "way/161844258",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          49.9985798,
+          19.9188829
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 165,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=49.9985798%2C19.9188829",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=49.9985798%2C19.9188829",
+        "osmUrl": "https://www.openstreetmap.org/way/161844258"
+      }
+    ]
+  },
+  {
+    "id": "719d3f1108acc21da42150cb@krakow-po-godzinach",
+    "sourceId": "archeologiczne",
+    "sourceName": "Muzeum Archeologiczne",
+    "title": "Archeonauci. Misja: przeszłość",
+    "url": "https://ma.krakow.pl/event/archeonauci-misja-przeszlosc-4/",
+    "start": "2026-10-25T12:00:00+01:00",
+    "end": "2026-10-25T14:00:00+01:00",
+    "venue": "Gmach główny Muzeum Archeologiczne w Krakwie",
+    "address": "Senacka 3, Kraków",
+    "description": "warsztaty rodzinne",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "25zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0576559,
+      19.9366789
+    ],
+    "parking": [
+      {
+        "id": "way/234010338",
+        "name": "Parking franciszkanów",
+        "coordinates": [
+          50.0583338,
+          19.9361478
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 84,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0583338%2C19.9361478",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0583338%2C19.9361478",
+        "osmUrl": "https://www.openstreetmap.org/way/234010338"
+      },
+      {
+        "id": "way/1530166024",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.057194,
+          19.9393905
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 200,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.057194%2C19.9393905",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.057194%2C19.9393905",
+        "osmUrl": "https://www.openstreetmap.org/way/1530166024"
+      }
+    ]
+  },
+  {
+    "id": "bfd0b698ef8de828417aef9d@krakow-po-godzinach",
+    "sourceId": "archeologiczne",
+    "sourceName": "Muzeum Archeologiczne",
+    "title": "Wtorkowe spotkania z zabytkiem (nie tylko dla Seniorów)",
+    "url": "https://ma.krakow.pl/event/wtorkowe-spotkania-z-zabytkiem-nie-tylko-dla-seniorow-4-2-2-2-2-2-2-2-2/",
+    "start": "2026-10-27T17:00:00+01:00",
+    "end": "2026-10-27T18:00:00+01:00",
+    "venue": "Gmach główny Muzeum Archeologiczne w Krakwie",
+    "address": "Senacka 3, Kraków",
+    "description": "Między nami a zabytkiem nie stoi już muzealna gablota…",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "5zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0576559,
+      19.9366789
+    ],
+    "parking": [
+      {
+        "id": "way/234010338",
+        "name": "Parking franciszkanów",
+        "coordinates": [
+          50.0583338,
+          19.9361478
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 84,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0583338%2C19.9361478",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0583338%2C19.9361478",
+        "osmUrl": "https://www.openstreetmap.org/way/234010338"
+      },
+      {
+        "id": "way/1530166024",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.057194,
+          19.9393905
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 200,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.057194%2C19.9393905",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.057194%2C19.9393905",
+        "osmUrl": "https://www.openstreetmap.org/way/1530166024"
+      }
+    ]
+  },
+  {
+    "id": "ff6bdd62a4295cccdd3557a8@krakow-po-godzinach",
+    "sourceId": "archeologiczne",
+    "sourceName": "Muzeum Archeologiczne",
+    "title": "Archeonauci. Misja: przeszłość",
+    "url": "https://ma.krakow.pl/event/archeonauci-misja-przeszlosc-4-2/",
+    "start": "2026-11-21T12:00:00+01:00",
+    "end": "2026-11-21T14:00:00+01:00",
+    "venue": "Gmach główny Muzeum Archeologiczne w Krakwie",
+    "address": "Senacka 3, Kraków",
+    "description": "warsztaty rodzinne",
+    "category": "historia",
+    "language": "do sprawdzenia",
+    "price": "25zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0576559,
+      19.9366789
+    ],
+    "parking": [
+      {
+        "id": "way/234010338",
+        "name": "Parking franciszkanów",
+        "coordinates": [
+          50.0583338,
+          19.9361478
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 84,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0583338%2C19.9361478",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0583338%2C19.9361478",
+        "osmUrl": "https://www.openstreetmap.org/way/234010338"
+      },
+      {
+        "id": "way/1530166024",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.057194,
+          19.9393905
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 200,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.057194%2C19.9393905",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.057194%2C19.9393905",
+        "osmUrl": "https://www.openstreetmap.org/way/1530166024"
+      }
+    ]
+  },
+  {
+    "id": "b928148687c3919fc398ed29@krakow-po-godzinach",
+    "sourceId": "aixv",
+    "sourceName": "AI × Voices",
+    "title": "AI x Voices #2",
+    "url": "https://aixv.ai/edycje/2",
+    "start": "2026-11-12T18:00:00+01:00",
+    "end": "2026-11-12T21:30:00+01:00",
+    "venue": "Hevre",
+    "address": "Meiselsa 18, Kraków",
+    "description": "Comiesięczna konferencja o AI w Krakowie: prelekcje praktyków, przerwy kawowe i afterparty. Wstęp bezpłatny.",
+    "category": "ai",
+    "language": "pl / en",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hevre+Meiselsa+18%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Hevre+Meiselsa+18%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Hevre+Meiselsa+18%2C+Krak%C3%B3w",
+    "timeUnknown": false,
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.0511519,
+      19.9433276
+    ],
+    "parking": [
+      {
+        "id": "way/1366755061",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0521916,
+          19.9433769
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 116,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0521916%2C19.9433769",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0521916%2C19.9433769",
+        "osmUrl": "https://www.openstreetmap.org/way/1366755061"
+      },
+      {
+        "id": "way/1366789627",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0522294,
+          19.9429144
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 123,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0522294%2C19.9429144",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0522294%2C19.9429144",
+        "osmUrl": "https://www.openstreetmap.org/way/1366789627"
+      }
+    ]
+  },
+  {
+    "id": "cb84fe4c1d382db39133417e@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "24-godzinny Maraton Układania Puzzli",
+    "url": "https://nck.krakow.pl/24-godzinny-maraton-ukladania-puzzli/",
+    "start": "2026-11-07T15:00:00+01:00",
+    "end": null,
+    "venue": "sala C-4",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "24-godzinny Maraton Układania Puzzli, to wyjątkowe wydarzenie dla wszystkich, którzy swój czas lubią spędzać w kreatywny sposób. Uczestnicy przez całą dobę sprawdzają…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet dla drużyny - 1500 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+C-4+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+C-4+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+C-4+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "443a85f978242ae391df042e@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "24-godzinny Maraton Układania Puzzli",
+    "url": "https://nck.krakow.pl/24-godzinny-maraton-ukladania-puzzli/",
+    "start": "2026-11-08T15:00:00+01:00",
+    "end": null,
+    "venue": "sala C-4",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "24-godzinny Maraton Układania Puzzli, to wyjątkowe wydarzenie dla wszystkich, którzy swój czas lubią spędzać w kreatywny sposób. Uczestnicy przez całą dobę sprawdzają…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet dla drużyny - 1500 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+C-4+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+C-4+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+C-4+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "fab8e929c0c35d3c55c8911b@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Akademia Bohaterów Klimatu – inauguracja V edycji programu",
+    "url": "https://nck.krakow.pl/akademia-bohaterow-klimatu-uroczyste-zakonczenie-v-edycji-programu/",
+    "start": "2026-11-05T09:00:00+01:00",
+    "end": "2026-11-05T13:00:00+01:00",
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Akademia Bohaterów Klimatu to program edukacyjny dla uczniów klas I-III z krakowskich szkół podstawowych. W roku szkolnym 2026/2027 startuje piąta edycja Akademii…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Sprawdź u organizatora",
+    "free": null,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "89794e81a68348fa5e1e1611@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Krakowskie Zaduszki Jazzowe",
+    "url": "https://nck.krakow.pl/krakowskie-zaduszki-jazzowe/",
+    "start": "2026-11-06T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Zaduszkowa Gwiazda Ondřej Havelka and his Melody Makers",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 50 zł - Bilety są dostępne wyłącznie w kasie i przysługują seniorom na podstawie ważnej legitymacji.",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "3763c007c995b5ecb95257c0@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "MURY. 45 lat później – koncert",
+    "url": "https://nck.krakow.pl/mury-45-lat-pozniej-koncert/",
+    "start": "2026-10-28T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "„MURY. 45 lat później” to wydarzenie w rodzaju mini oratorium o ograniczeniach jednostki, ograniczeniach wszelkiego rodzaju – od politycznych do egzystencjalnych, od…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 80 / 50 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "b3065a5b4ac51c12d31f7966@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Najpiękniejsze Piosenki: Magda Umer",
+    "url": "https://nck.krakow.pl/najpiekniejsze-piosenki-63/",
+    "start": "2026-11-05T18:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Wystąpi Najmniejsza Scena Świata: Emilia Baczyńska – śpiew Dawid Mik – śpiew Filip Kot – fortepian Martyna Myłek – skrzypce Janek Łukasik – wibrafon, cymbały Artur…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 50 / 45 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "b7051a868d27a7f4886d9c87@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Oprowadzanie kuratorskie po Galerii Zdzisława Beksińskiego w Krakowie",
+    "url": "https://nck.krakow.pl/oprowadzanie-kuratorskie-po-galerii-zdzislawa-beksinskiego-w-krakowie/",
+    "start": "2026-10-30T17:00:00+01:00",
+    "end": null,
+    "venue": "Galeria Zdzisława Beksińskiego w Krakowie",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Kuratorka Galerii Joanna Gościej-Lewińska zaprasza na wyjątkowe spotkanie z twórczością Zdzisława Beksińskiego. Stała ekspozycja, mieszcząca się w Nowohuckim Centrum…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 50 / 40 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galeria+Zdzis%C5%82awa+Beksi%C5%84skiego+w+Krakowie+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Galeria+Zdzis%C5%82awa+Beksi%C5%84skiego+w+Krakowie+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Galeria+Zdzis%C5%82awa+Beksi%C5%84skiego+w+Krakowie+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "472ede4c0f9e6cf61a486e76@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Roztańczone rodziny: „Poruszeni. Praktyka ruchu i relacji” – Warsztaty ruchowe dla animatorów, edukatorów kultury i nauczycieli.",
+    "url": "https://nck.krakow.pl/roztanczone-rodziny-warsztaty-ruchowe-dla-animatorow-edukatorow-kultury-i-nauczycieli/",
+    "start": "2026-11-07T10:30:00+01:00",
+    "end": "2026-11-07T13:45:00+01:00",
+    "venue": "Studio KCC",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "„Poruszeni. Praktyka ruchu i relacji”",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet dwudniowy - 100 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "d317272893a30634df2d789f@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Roztańczone rodziny: „Poruszeni. Praktyka ruchu i relacji” – Warsztaty ruchowe dla animatorów, edukatorów kultury i nauczycieli.",
+    "url": "https://nck.krakow.pl/roztanczone-rodziny-warsztaty-ruchowe-dla-animatorow-edukatorow-kultury-i-nauczycieli/",
+    "start": "2026-11-08T09:30:00+01:00",
+    "end": "2026-11-08T12:45:00+01:00",
+    "venue": "Studio KCC",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "„Poruszeni. Praktyka ruchu i relacji”",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet dwudniowy - 100 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "33b948b03790193ec2fe9c89@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Spięty – koncert „Full H.D.”",
+    "url": "https://nck.krakow.pl/spiety-koncert-full-h-d/",
+    "start": "2026-11-07T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Koncert promujący nową płytę Spiętego pod tytułem „Full H.D.”, która ukazała się na początku 2026 roku. Podczas wydarzenia usłyszymy zarówno nowe utwory, jak i…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet rzędy I-X - 129 zł Bilet rzędy XI-XVII - 109 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "ed0855cc7cc5a58dfe4c3ade@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Steelworks Game Jam V",
+    "url": "https://nck.krakow.pl/steelworks-game-jam-v/",
+    "start": "2026-11-06T16:00:00+01:00",
+    "end": null,
+    "venue": "Nowohuckie Centrum Kultury",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Piąta edycja emocjonującego weekendowego maratonu tworzenia gier, organizowanego wspólnie przez Nowohuckie Centrum Kultury oraz Fundację ARS LUDORUM. To wyjątkowe…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "982205303239c96dde9663b4@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Steelworks Game Jam V",
+    "url": "https://nck.krakow.pl/steelworks-game-jam-v/",
+    "start": "2026-11-07T15:00:00+01:00",
+    "end": null,
+    "venue": "Nowohuckie Centrum Kultury",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Piąta edycja emocjonującego weekendowego maratonu tworzenia gier, organizowanego wspólnie przez Nowohuckie Centrum Kultury oraz Fundację ARS LUDORUM. To wyjątkowe…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "20875d995eb2072be4493424@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Steelworks Game Jam V",
+    "url": "https://nck.krakow.pl/steelworks-game-jam-v/",
+    "start": "2026-11-08T18:00:00+01:00",
+    "end": null,
+    "venue": "Nowohuckie Centrum Kultury",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Piąta edycja emocjonującego weekendowego maratonu tworzenia gier, organizowanego wspólnie przez Nowohuckie Centrum Kultury oraz Fundację ARS LUDORUM. To wyjątkowe…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bezpłatne",
+    "free": true,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Nowohuckie+Centrum+Kultury+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "8d6653c8ebf081792ecc5cac@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Szymon Mika – Agma",
+    "url": "https://nck.krakow.pl/szymon-mika-agma/",
+    "start": "2026-10-26T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Agma to ekscytujący i doceniony przez krytyków projekt Szymona Miki – jednego z najbardziej wyróżniających się gitarzystów w Europie, znanego z muzyki wymykającej się…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 50 / 45 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "32da04eafa36e2214c84a17a@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "THE UMBILICAL BROTHERS – SPEEDMOUSE",
+    "url": "https://nck.krakow.pl/the-umbilical-brothers-speedmouse/",
+    "start": "2026-11-09T20:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Umbilical Brothers to międzynarodowy fenomen komediowy, który ma na koncie m.in. dwie nagrody BAFTA, Emmy, Critics’ Choice na Edinburgh Fringe oraz Helpmann Award dla…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilety rząd VI - 180 zł Bilety rząd XI - 160 zł Bilety rząd XVI-XVII - 153 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "35c450715f7af6fe448a42db@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Wiktor Waligóra „KRÓTKA TRASA O MIŁOŚCI”",
+    "url": "https://nck.krakow.pl/wiktor-waligora-krotka-trasa-o-milosci/",
+    "start": "2026-10-30T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Wiktor Waligóra – krakowski wokalista, kompozytor i autor tekstów młodego pokolenia, uznawany za jedno z największych odkryć muzycznych ostatnich lat – wystąpi na Scenie…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet rzędy I-X - 99 zł Bilet rzędy XI-XVII - 79 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "f8a9fa299733672f3d51bdaf@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "WORLD PRESS PHOTO – 69. edycja",
+    "url": "https://nck.krakow.pl/world-press-photo-69-edycja/",
+    "start": "2026-10-25T11:00:00+01:00",
+    "end": "2026-10-25T19:00:00+01:00",
+    "venue": "Biała Galeria CENTRUM",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Wystawa w ramach wydarzenia SIŁA FOTOGRAFII 2026 .",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 30 / 25 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bia%C5%82a+Galeria+CENTRUM+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Bia%C5%82a+Galeria+CENTRUM+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Bia%C5%82a+Galeria+CENTRUM+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "7ffebd3e615dc4999cba71a0@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "„Zobaczyć Piosenkę vol. 1”",
+    "url": "https://nck.krakow.pl/zobaczyc-piosenke-vol-1-koncert/",
+    "start": "2026-11-08T16:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "„Zobaczyć Piosenkę vol. 1″ to wyjątkowe widowisko, które łączy największe muzyczne hity z filmową opowieścią o Radiowcu i jego nocnej audycji. Muzyka prowadzi tu emocje…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 149 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "44d43f1377825c90aa459429@krakow-po-godzinach",
+    "sourceId": "sii",
+    "sourceName": "Sii Polska",
+    "title": "Pie & AI w Krakowie, czyli czwarty przystanek Sii AI Tour",
+    "url": "https://sii.pl/wydarzenia/pie-ai-w-krakowie/",
+    "start": "2026-10-27T16:30:00+01:00",
+    "end": "2026-10-27T20:00:00+01:00",
+    "venue": "Biuro Sii Polska",
+    "address": "ul. Wadowicka 12, Kraków",
+    "description": "Po sukcesie poprzednich edycji wracamy z kolejną odsłoną PIE & AI – technologicznego meetupu dla wszystkich, którzy chcą rozumieć, projektować i wdrażać AI w realnym…",
+    "category": "ai",
+    "language": "pl",
+    "price": "Sprawdź u organizatora",
+    "free": null,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Biuro+Sii+Polska+ul.+Wadowicka+12%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Biuro+Sii+Polska+ul.+Wadowicka+12%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Biuro+Sii+Polska+ul.+Wadowicka+12%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:36:13.471638+01:00",
+    "modifiedAt": "2026-10-25T12:36:13.471638+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.030601,
+      19.9382256
+    ],
+    "parking": [
+      {
+        "id": "way/1107022560",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0316604,
+          19.9410522
+        ],
+        "fee": "unknown",
+        "access": "unknown",
+        "distanceMeters": 234,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0316604%2C19.9410522",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0316604%2C19.9410522",
+        "osmUrl": "https://www.openstreetmap.org/way/1107022560"
+      },
+      {
+        "id": "way/219364917",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0328517,
+          19.9388961
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 255,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0328517%2C19.9388961",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0328517%2C19.9388961",
+        "osmUrl": "https://www.openstreetmap.org/way/219364917"
+      }
+    ]
+  },
+  {
+    "id": "ee2eca75757360257d88113d@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "19. Festiwal Twórczości KOROWÓD – koncert galowy",
+    "url": "https://nck.krakow.pl/19-festiwal-tworczosci-korowod-koncert-galowy/",
+    "start": "2026-11-22T18:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Renata Przemyk z zespołem oraz Janusz Radek & Adam Drzewiecki",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet rzędy I-XIII - 120 zł Bilet rzędy XIV-XVII - 100 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "71e42a850e46b4fcbb5aaa73@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "„Co w trawie piszczy” – spektakl Teatru Figurki",
+    "url": "https://nck.krakow.pl/co-w-trawie-piszczy-spektakl-teatru-figurki-11/",
+    "start": "2026-11-15T10:30:00+01:00",
+    "end": null,
+    "venue": "sala 014",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Kameralny spektakl w technice teatru cieni dla dzieci w wieku 1-4 lat oraz ich rodziców.",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 55 zł Na spektakl należy zakupić bilety zarówno dla dziecka jak i opiekuna. Obowiązuje jedna cena…",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+014+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+014+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+014+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "f2bf9add7b69fb5a8b2defdb@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "COHEN W TEATRZE – koncert",
+    "url": "https://nck.krakow.pl/cohen-w-teatrze-koncert-2026/",
+    "start": "2026-11-15T17:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Paweł Sztompke, Wojciech Skibiński i Krzysztof Taraszka zapraszają na muzyczną opowieść poświęconą jednemu z największych piosenkarzy i poetów wszech czasów. „Cohen w…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 159 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "2a81753cd910f0566889fe3f@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Grzegorz Turnau z zespołem",
+    "url": "https://nck.krakow.pl/grzegorz-turnau-z-zespolem-2026/",
+    "start": "2026-11-20T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Grzegorz Turnau – piosenkarz, kompozytor, pianista. Ze swoim zespołem występuje od ponad 30 lat. Wydał 16 albumów z własnym repertuarem i 3 płyty będące interpretacją…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet rzędy I-XIII - 170 zł Bilet rzędy XIV-XVII - 150 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "73983f349aa1932b717ec982@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Gwiazdozbiór muzyczny czyli największe przeboje światowego kina – PREMIERA koncertu",
+    "url": "https://nck.krakow.pl/gwiazdozbior-muzyczny-czyli-najwieksze-przeboje-swiatowego-kina-premiera-koncertu/",
+    "start": "2026-11-23T19:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Od Casablanki po La la land!",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 219 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "e3497cd30b9f0d23631db0f5@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Kasia Moś z zespołem",
+    "url": "https://nck.krakow.pl/kasia-mos-z-zespolem/",
+    "start": "2026-11-21T18:00:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Zapraszamy na wyjątkowy wieczór z jedną z najciekawszych polskich artystek — Kasią Moś i jej zespołem. 21 listopada na Scenie NCK zabrzmi muzyka bezkompromisowa, pełna…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet rzędy I-XIII - 109 zł Bilet rzędy XIV-XVII - 99 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "ac112412cb44a715487e1dcb@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "„Kwartet” – spektakl",
+    "url": "https://nck.krakow.pl/kwartet-spektakl/",
+    "start": "2026-11-10T18:30:00+01:00",
+    "end": null,
+    "venue": "Scena NCK",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "„Kwartet” Bogusława Schaeffera to inteligentny i dowcipny spektakl w wyśmienitej obsadzie, w którym bohaterowie usiłują odpowiedzieć na pytania fundamentalne. Ambitna…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet rzędy I-VIII - 160 zł Bilet rzędy IX-XIV - 140 zł Bilet rzędy XV-XVII - 120 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Scena+NCK+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "6d4eed641924690e90515594@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Roztańczone rodziny: „Okruszku” — taneczny spektakl interaktywny dla rodzin z niemowlętami",
+    "url": "https://nck.krakow.pl/okruszku-taneczny-spektakl-interaktywny-dla-rodzin-z-niemowletami/",
+    "start": "2026-11-21T10:00:00+01:00",
+    "end": null,
+    "venue": "Studio KCC",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Program spotkania i zasady udziału znajdziesz na stronie organizatora.",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilety dla jednej osoby - 20 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "7a0e36630bebf65566e92704@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Roztańczone rodziny: „Okruszku” — taneczny spektakl interaktywny dla rodzin z niemowlętami",
+    "url": "https://nck.krakow.pl/okruszku-taneczny-spektakl-interaktywny-dla-rodzin-z-niemowletami/",
+    "start": "2026-11-22T10:00:00+01:00",
+    "end": null,
+    "venue": "Studio KCC",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Program spotkania i zasady udziału znajdziesz na stronie organizatora.",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilety dla jednej osoby - 20 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "d3d22deca7bbd59d1e6c15f8@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Roztańczone rodziny: „Ciałotowarzyszenie” – Warsztaty wytchnieniowe przez ruch dla osób opiekuńczych",
+    "url": "https://nck.krakow.pl/roztanczone-rodziny-cialotowarzyszenie-warsztaty-wytchnieniowe-przez-ruch-dla-osob-opiekunczych/",
+    "start": "2026-11-15T11:00:00+01:00",
+    "end": "2026-11-15T13:00:00+01:00",
+    "venue": "Studio KCC",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Warsztat został opracowany z myślą o osobach, które na co dzień wspierają innych i im towarzyszą, a którym zdarza się doświadczać emocjonalnego i fizycznego…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 20 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+Studio+KCC+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "433346d72ba256ff37108fc8@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Roztańczone rodziny: „Rośl-inność” – warsztaty dla rodzin z dziećmi w wieku 4-6 lat Dana Chmielewska",
+    "url": "https://nck.krakow.pl/roztanczone-rodziny-rosl-innosc-dana-chmielewska/",
+    "start": "2026-11-22T12:00:00+01:00",
+    "end": "2026-11-22T13:00:00+01:00",
+    "venue": "sala A204",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Co łączy życie na całej Ziemi? Jaki ruch w nim drzemie? Czym natura może nas zaskoczyć, a czego nauczyć?",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "60 zł - 1 opiekun + 1 dziecko",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+A204+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+A204+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+A204+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "5f9fea66fb17455a7de1249f@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Scena Piosenki Autorskiej: Lidia Jazgar, Ryszard Brączek",
+    "url": "https://nck.krakow.pl/scena-piosenki-autorskiej-52/",
+    "start": "2026-11-19T18:00:00+01:00",
+    "end": null,
+    "venue": "sala kameralna 203",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Lidia Jazgar – śpiew Ryszard Brączek – gitara Galicjowy koncert",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 40 / 35 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+kameralna+203+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+kameralna+203+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+kameralna+203+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "7b532336b8bd0a0a313538d1@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "W NCK wszystko GRA!",
+    "url": "https://nck.krakow.pl/w-nck-wszystko-gra/",
+    "start": "2026-11-21T16:00:00+01:00",
+    "end": "2026-11-21T20:00:00+01:00",
+    "venue": "sala 014",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Nowohuckie planszówki z Gralicją!",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 10 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+014+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+014+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+014+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  },
+  {
+    "id": "f6bce2d1508061910843bcb1@krakow-po-godzinach",
+    "sourceId": "nck",
+    "sourceName": "Nowohuckie Centrum Kultury",
+    "title": "Życie jest piękne!: „Wystarczy żyć”",
+    "url": "https://nck.krakow.pl/zycie-jest-piekne-19/",
+    "start": "2026-11-18T18:00:00+01:00",
+    "end": null,
+    "venue": "sala 203",
+    "address": "al. Jana Pawła II 232, Kraków",
+    "description": "Cykl spotkań o ludziach pięknych, silnych, pełnych unikatowych pasji, którym zależy, aby dostrzec ich ambicje i często nietuzinkowy talent, zamiast towarzyszącej im…",
+    "category": "kultura",
+    "language": "do sprawdzenia",
+    "price": "Bilet - 5 zł",
+    "free": false,
+    "status": "confirmed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=sala+203+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=sala+203+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "parkingSearchUrl": "https://www.google.com/maps/search/?api=1&query=parking+near+sala+203+al.+Jana+Paw%C5%82a+II+232%2C+Krak%C3%B3w",
+    "createdAt": "2026-10-25T12:39:22.670658+01:00",
+    "modifiedAt": "2026-10-25T12:39:22.670658+01:00",
+    "sequence": 0,
+    "checkedAt": "2026-10-25T12:39:22.670658+01:00",
+    "coordinates": [
+      50.071435,
+      20.0344589
+    ],
+    "parking": [
+      {
+        "id": "way/107380107",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0714222,
+          20.0332959
+        ],
+        "fee": "yes",
+        "access": "yes",
+        "distanceMeters": 83,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0714222%2C20.0332959",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0714222%2C20.0332959",
+        "osmUrl": "https://www.openstreetmap.org/way/107380107"
+      },
+      {
+        "id": "way/757263609",
+        "name": "Parking z mapy OpenStreetMap",
+        "coordinates": [
+          50.0722608,
+          20.034414
+        ],
+        "fee": "no",
+        "access": "yes",
+        "distanceMeters": 92,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=50.0722608%2C20.034414",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=50.0722608%2C20.034414",
+        "osmUrl": "https://www.openstreetmap.org/way/757263609"
+      }
+    ]
+  }
+]

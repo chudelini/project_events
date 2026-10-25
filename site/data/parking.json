@@ -1,0 +1,266 @@
+{
+  "checkedAt": "2026-10-25T12:40:47.760138+01:00",
+  "lots": [
+    {
+      "id": "node/2135053508",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0493448,
+        19.9274049
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "node/6449762525",
+      "name": "Kiss & Ride",
+      "coordinates": [
+        50.0417106,
+        19.9613788
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/107380107",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0714222,
+        20.0332959
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "way/161844258",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        49.9985798,
+        19.9188829
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/219364917",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0328517,
+        19.9388961
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "way/234010338",
+      "name": "Parking franciszkanów",
+      "coordinates": [
+        50.0583338,
+        19.9361478
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "way/306984735",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0477262,
+        19.9551713
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/306992937",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0473054,
+        19.9579347
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "way/339126109",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0870513,
+        19.8752515
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/372210144",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        49.998859,
+        19.9175268
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/757263609",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0722608,
+        20.034414
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/1107022560",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0316604,
+        19.9410522
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1151264578",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0874673,
+        19.8762468
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/1217062019",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0476795,
+        19.9522114
+      ],
+      "fee": "unknown",
+      "access": "yes"
+    },
+    {
+      "id": "way/1263777588",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0492295,
+        19.9644492
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1315042276",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0493646,
+        19.9368144
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1366755061",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0521916,
+        19.9433769
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1366789627",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0522294,
+        19.9429144
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "way/1396231184",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0630714,
+        19.9303023
+      ],
+      "fee": "yes",
+      "access": "yes"
+    },
+    {
+      "id": "way/1437098150",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0720668,
+        19.9268474
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1441661431",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0707126,
+        19.9251554
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1441684835",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0705117,
+        19.9249915
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1443546577",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0718407,
+        19.9272494
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1530166024",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.057194,
+        19.9393905
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    },
+    {
+      "id": "way/1553645591",
+      "name": "Kiss & Ride",
+      "coordinates": [
+        50.0428349,
+        19.9604343
+      ],
+      "fee": "no",
+      "access": "yes"
+    },
+    {
+      "id": "way/1565834021",
+      "name": "Parking z mapy OpenStreetMap",
+      "coordinates": [
+        50.0661974,
+        19.9354564
+      ],
+      "fee": "unknown",
+      "access": "unknown"
+    }
+  ],
+  "warning": null
+}
