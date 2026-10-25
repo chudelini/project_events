@@ -326,6 +326,15 @@ def geocode(events, cache):
     return cache
 
 
+def event_parking(tags):
+    if tags.get('access') in ['private','no','customers','permit','residents']:return False
+    if tags.get('parking') in ['street_side','drop_off','kiss_and_ride']:return False
+    if re.search(r'kiss.?(&|and|i)?.?ride|kiss.?n.?ride|tylko.*(?:dostaw|klient)',tags.get('name',''),re.I):return False
+    stay=tags.get('maxstay','')
+    if re.fullmatch(r'\d+',stay) and int(stay)<=30:return False
+    return True
+
+
 def fetch_parking(previous):
     query='[out:json][timeout:40];nwr["amenity"="parking"]["access"!~"private|no"]["parking"!="street_side"](49.95,19.75,50.2,20.25);out center tags;'
     for endpoint in ['https://overpass-api.de/api/interpreter','https://overpass.kumi.systems/api/interpreter']:
@@ -336,7 +345,7 @@ def fetch_parking(previous):
             for obj in d['elements']:
                 tags=obj.get('tags',{}); c=obj.get('center',obj)
                 if not c.get('lat') or not c.get('lon'):continue
-                if tags.get('access') in ['customers','permit','residents']:continue
+                if not event_parking(tags):continue
                 name=tags.get('name') or ('Parking przy '+tags['addr:street'] if tags.get('addr:street') else 'Parking z mapy OpenStreetMap')
                 lots.append({'id':str(obj['type'])+'/'+str(obj['id']),'name':name,'coordinates':[c['lat'],c['lon']],'fee':tags.get('fee','unknown'),'access':tags.get('access','unknown')})
             if not lots:raise ValueError('Pusta baza parkingów')
@@ -362,7 +371,7 @@ def merge(previous, fresh, now):
     result={e['id']:e for e in previous}
     for e in fresh:
         old=result.get(e['id'])
-        changed=not old or any(e.get(k)!=old.get(k) for k in ['title','start','end','venue','address','description','price','status'])
+        changed=not old or any(e.get(k)!=old.get(k) for k in ['title','start','end','venue','address','description','price','status','language'])
         e['createdAt']=old['createdAt'] if old else now.isoformat()
         e['modifiedAt']=now.isoformat() if changed else old['modifiedAt']
         e['sequence']=(old.get('sequence',0)+1 if old else 0) if changed else old.get('sequence',0)
@@ -370,6 +379,15 @@ def merge(previous, fresh, now):
         result[e['id']]=e
     # Missing list entries are not proof of cancellation. Retain with original checkedAt.
     return [e for e in result.values() if aware(e.get('end') or e['start'])>=now-timedelta(days=90)]
+
+
+def refresh_parking_revisions(previous, events, now):
+    old={e['id']:e for e in previous}
+    for e in events:
+        before=old.get(e['id'])
+        if before and e.get('parking',[])!=before.get('parking',[]) and e['modifiedAt']!=now.isoformat():
+            e['modifiedAt']=now.isoformat()
+            e['sequence']+=1
 
 
 def make_calendar(events, title, now):
@@ -414,6 +432,7 @@ def main():
         cache=geocode(merged,read_json(DATA/'geocodes.json',{}));save_json(DATA/'geocodes.json',cache)
         parking=fetch_parking(read_json(DATA/'parking.json',{'lots':[]}))
         attach_parking(merged,parking)
+        refresh_parking_revisions(old,merged,now)
         used={p['id'] for e in merged for p in e.get('parking',[])}
         parking['lots']=[p for p in parking.get('lots',[]) if p['id'] in used]
         save_json(DATA/'parking.json',parking)

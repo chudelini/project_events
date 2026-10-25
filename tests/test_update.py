@@ -40,6 +40,15 @@ class CalendarTests(unittest.TestCase):
         e=u.merge([],[self.event],self.now)[0];e['status']='cancelled'
         item=Calendar.from_ical(u.make_calendar([e],'Kraków',self.now)).walk('VEVENT')[0]
         self.assertEqual(str(item['STATUS']),'CANCELLED')
+    def test_parking_change_updates_calendar_revision_once(self):
+        old=u.merge([],[deepcopy(self.event)],self.now)
+        new=deepcopy(old);new[0]['parking']=[{'name':'Nowy parking'}]
+        later=self.now+timedelta(days=1)
+        u.refresh_parking_revisions(old,new,later)
+        self.assertEqual(new[0]['sequence'],1)
+        self.assertEqual(new[0]['modifiedAt'],later.isoformat())
+        u.refresh_parking_revisions(old,new,later)
+        self.assertEqual(new[0]['sequence'],1)
     def test_dst_in_warsaw(self):
         self.assertEqual(u.aware('2026-10-24T18:00:00').utcoffset(),timedelta(hours=2))
         self.assertEqual(u.aware('2026-10-25T18:00:00').utcoffset(),timedelta(hours=1))
@@ -65,6 +74,10 @@ class ParserTests(unittest.TestCase):
         obj={'@type':'Event','name':'Konferencja','startDate':'2026-11-12T18:00:00+01:00','url':'https://example.org/2','location':{'name':'Hevre','address':'Meiselsa 18, Kraków'},'subEvent':[{'@type':'Event','@id':'talk-1','name':'Talk','startDate':'2026-11-12T18:00:00+01:00','location':{'name':'Hevre','address':'Kraków'}}]}
         s=BeautifulSoup('<script type="application/ld+json">'+json.dumps(obj)+'</script>','html.parser')
         self.assertEqual(len(u.structured({'id':'ai','name':'AI'},s,'https://example.org')),1)
+    def test_short_stay_and_private_parking_are_excluded(self):
+        for tags in [{'name':'Kiss & Ride'},{'parking':'drop_off'},{'access':'customers'},{'maxstay':'10'}]:
+            self.assertFalse(u.event_parking(tags))
+        self.assertTrue(u.event_parking({'name':'Parking publiczny','fee':'yes'}))
     def test_parking_nearest_order_private_already_filtered_at_fetch(self):
         event={'coordinates':[50.05,19.94]}
         lots=[{'id':'node/1','name':'dalszy','coordinates':[50.055,19.94]},{'id':'node/2','name':'bliski','coordinates':[50.051,19.94]},{'id':'node/3','name':'daleko','coordinates':[50.15,19.94]}]
