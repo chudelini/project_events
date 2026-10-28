@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T12:47:31.654102+01:00",
+  "checkedAt": "2026-10-28T15:05:41.685491+01:00",
   "lots": [
     {
       "id": "node/2135053508",
@@ -112,6 +112,16 @@
       "access": "unknown"
     },
     {
+      "id": "way/673239339",
+      "name": "Parking przy Dajwór",
+      "coordinates": [
+        50.0521639,
+        19.9495042
+      ],
+      "fee": "yes",
+      "access": "unknown"
+    },
+    {
       "id": "way/757263609",
       "name": "Parking z mapy OpenStreetMap",
       "coordinates": [
@@ -149,6 +159,16 @@
         19.9522114
       ],
       "fee": "unknown",
+      "access": "yes"
+    },
+    {
+      "id": "way/1243573116",
+      "name": "Parking przy Dajwór",
+      "coordinates": [
+        50.051333,
+        19.9497796
+      ],
+      "fee": "yes",
       "access": "yes"
     },
     {

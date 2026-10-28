@@ -67,7 +67,7 @@ DESCRIPTION:Co znaleziono w kopcu Kraka? Do czego służyła tajemnicza k
  apa: https://www.google.com/maps/search/?api=1&query=50.0405945%2C19.95843
  42\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0405945%
  2C19.9584342\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.
- \nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ \nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
@@ -100,8 +100,8 @@ DESCRIPTION:Warsztaty przeznaczone są dla młodego pokolenia (od 14. roku
  4\nParking z mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/ma
  ps/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google
  .com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznak
- owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T1
- 2:45:37.400079+01:00
+ owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T1
+ 5:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -133,7 +133,7 @@ DESCRIPTION:Podczas gdy cała Polska świętuje odzyskanie Niepodległośc
  enStreetMap — 284 m\nMapa: https://www.google.com/maps/search/?api=1&que
  ry=50.0405945%2C19.9584342\nDojazd: https://www.google.com/maps/dir/?api=1
  &destination=50.0405945%2C19.9584342\n\nSprawdź oznakowanie i dostępnoś
- ć parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ ć parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
@@ -143,10 +143,10 @@ URL:https://muzeumkrakowa.pl/kalendarium/wieczor-z-kokarda-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kostium na każdą legendę: Krzysztofor Wielki i Pan Twardowski
-DTSTART:20261031T090000Z
-DTSTAMP:20261025T113613Z
+DTSTART:20261121T090000Z
+DTSTAMP:20261028T140303Z
 UID:4fe9f0c0566ddea898ec2cbe@krakow-po-godzinach
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:historia
 CREATED:20261025T113613Z
 DESCRIPTION:Kraków to zaczarowane miasto\, nie tylko symbolicznie. Tu cza
@@ -165,9 +165,9 @@ DESCRIPTION:Kraków to zaczarowane miasto\, nie tylko symbolicznie. Tu cza
  arking z mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/maps/s
  earch/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google.com
  /maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznakowan
- ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45
- :37.400079+01:00
-LAST-MODIFIED:20261025T113613Z
+ ie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03
+ :03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -201,8 +201,8 @@ DESCRIPTION:Mieszcząca się na krakowskim Zabłociu fabryka naczyń emali
  7\nParking z mapy OpenStreetMap — 266 m\nMapa: https://www.google.com/ma
  ps/search/?api=1&query=50.0492295%2C19.9644492\nDojazd: https://www.google
  .com/maps/dir/?api=1&destination=50.0492295%2C19.9644492\n\nSprawdź oznak
- owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T1
- 2:45:37.400079+01:00
+ owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T1
+ 5:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Fabryka Emalia Oskara Schindlera\, ul. Lipowa 4\, 30-702 Kraków
 STATUS:CONFIRMED
@@ -236,8 +236,8 @@ DESCRIPTION:Warsztaty przeznaczone są dla osób dorosłych\, które chcą
  4\nParking z mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/ma
  ps/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google
  .com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznak
- owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T1
- 2:45:37.400079+01:00
+ owanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T1
+ 5:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -269,7 +269,7 @@ DESCRIPTION:Prokocim był miejscem działalności 2. kompanii IV Odcinka
  www.google.com/maps/search/?api=1&query=50.0705117%2C19.9249915\nDojazd: h
  ttps://www.google.com/maps/dir/?api=1&destination=50.0705117%2C19.9249915
  \n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawd
- zono: 2026-10-25T12:45:37.400079+01:00
+ zono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Ulica Pomorska\, ul. Pomorska 2\, 30-039 Kraków
 STATUS:CONFIRMED
@@ -302,8 +302,8 @@ DESCRIPTION:Warsztaty przeznaczone są dla osób dorosłych\, które chcą
  564\nParking z mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/
  maps/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.goog
  le.com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź ozn
- akowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25
- T12:45:37.400079+01:00
+ akowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28
+ T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -335,8 +335,8 @@ DESCRIPTION:Zapraszamy na spotkanie z cyklu „Herbatka u Rydlów "! Opowi
  \nParking z mapy OpenStreetMap — 218 m\nMapa: https://www.google.com/map
  s/search/?api=1&query=50.0870513%2C19.8752515\nDojazd: https://www.google.
  com/maps/dir/?api=1&destination=50.0870513%2C19.8752515\n\nSprawdź oznako
- wanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12
- :45:37.400079+01:00
+ wanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15
+ :03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rydlówka\, ul. Włodzimierza Tetmajera 28\, 31-352 Kraków
 STATUS:CONFIRMED
@@ -371,7 +371,7 @@ DESCRIPTION:Współczesna ulica Łobzowska była jedną z głównych dróg
  a: https://www.google.com/maps/search/?api=1&query=50.0720668%2C19.9268474
  \nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0720668%2C
  19.9268474\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nD
- ane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ ane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:plac przed kościołem św. Szczepana\, Miejsce zbiórki: plac pr
  zed kościołem św. Szczepana\, ul. Sienkiewicza 19
@@ -405,7 +405,7 @@ DESCRIPTION:Zapraszamy na spacer upamiętniający\, połączony z prezenta
  212 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0476795%2C
  19.9522114\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.
  0476795%2C19.9522114\n\nSprawdź oznakowanie i dostępność parkingu na m
- iejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ iejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Apteka pod Orłem\, plac Bohaterów Getta 18\, 30-547 Kraków
 STATUS:CONFIRMED
@@ -437,8 +437,8 @@ DESCRIPTION:Znacie historię walki walecznego szewczyka i okrutnego smoka?
   mapy OpenStreetMap — 434 m\nMapa: https://www.google.com/maps/search/?a
  pi=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google.com/maps/di
  r/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dos
- tępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.4000
- 79+01:00
+ tępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.1817
+ 50+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -470,7 +470,7 @@ DESCRIPTION:Na czwartkowy obiad do Pałacu Krzysztofory przybywa Pan Tward
  — 434 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.063071
  4%2C19.9303023\nDojazd: https://www.google.com/maps/dir/?api=1&destination
  =50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dostępność parkingu 
- na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Pałac Krzysztofory\, Rynek Główny 35\, 31-011 Kraków
 STATUS:CONFIRMED
@@ -506,7 +506,7 @@ DESCRIPTION:Wyrazisty w architektonicznej formie\, znakomity przykład bru
  www.google.com/maps/search/?api=1&query=50.0405945%2C19.9584342\nDojazd: h
  ttps://www.google.com/maps/dir/?api=1&destination=50.0405945%2C19.9584342
  \n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawd
- zono: 2026-10-25T12:45:37.400079+01:00
+ zono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
@@ -540,7 +540,7 @@ DESCRIPTION:W latach 70. XX wieku zapowiadano budowę „drugiej Polski”
  eetMap — 284 m\nMapa: https://www.google.com/maps/search/?api=1&query=50
  .0405945%2C19.9584342\nDojazd: https://www.google.com/maps/dir/?api=1&dest
  ination=50.0405945%2C19.9584342\n\nSprawdź oznakowanie i dostępność pa
- rkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ rkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
@@ -574,7 +574,7 @@ DESCRIPTION:Żelbetowa dominanta krajobrazu Ludwinowa. Tak można opisać
  Mapa: https://www.google.com/maps/search/?api=1&query=50.0405945%2C19.9584
  342\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0405945
  %2C19.9584342\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.
- \nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ \nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
@@ -608,8 +608,8 @@ DESCRIPTION:Współczesne oblicze rynku krakowskiego stanowi w dużej mier
  \nParking z mapy OpenStreetMap — 471 m\nMapa: https://www.google.com/map
  s/search/?api=1&query=50.0630714%2C19.9303023\nDojazd: https://www.google.
  com/maps/dir/?api=1&destination=50.0630714%2C19.9303023\n\nSprawdź oznako
- wanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12
- :45:37.400079+01:00
+ wanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15
+ :03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rynek Podziemny\, Rynek Główny 1\, 31-042 Kraków
 STATUS:CONFIRMED
@@ -641,7 +641,7 @@ DESCRIPTION:Jak naprawdę wyglądało wesele\, które na zawsze zmieniło
   OpenStreetMap — 218 m\nMapa: https://www.google.com/maps/search/?api=1&
  query=50.0870513%2C19.8752515\nDojazd: https://www.google.com/maps/dir/?ap
  i=1&destination=50.0870513%2C19.8752515\n\nSprawdź oznakowanie i dostępn
- ość parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01
+ ość parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01
  :00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Rydlówka\, ul. Włodzimierza Tetmajera 28\, 31-352 Kraków
@@ -674,8 +674,8 @@ DESCRIPTION:Współcześni artyści często wykorzystują różne nietypow
  apy OpenStreetMap — 284 m\nMapa: https://www.google.com/maps/search/?api
  =1&query=50.0405945%2C19.9584342\nDojazd: https://www.google.com/maps/dir/
  ?api=1&destination=50.0405945%2C19.9584342\n\nSprawdź oznakowanie i dost
- ępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.40007
- 9+01:00
+ ępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.18175
+ 0+01:00
 LAST-MODIFIED:20261025T114537Z
 LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
  ów
@@ -707,8 +707,8 @@ DESCRIPTION:Czy zastanawiałeś się\, jak działają radioodbiorniki i co
  ng z mapy OpenStreetMap — 266 m\nMapa: https://www.google.com/maps/searc
  h/?api=1&query=50.0492295%2C19.9644492\nDojazd: https://www.google.com/map
  s/dir/?api=1&destination=50.0492295%2C19.9644492\n\nSprawdź oznakowanie i
-  dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-25T12:45:37.
- 400079+01:00
+  dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.
+ 181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Fabryka Emalia Oskara Schindlera\, ul. Lipowa 4\, 30-702 Kraków
 STATUS:CONFIRMED
@@ -742,7 +742,7 @@ DESCRIPTION:Zapraszamy na niedzielne oprowadzanie kuratorskie po wystawie
  a: https://www.google.com/maps/search/?api=1&query=49.9985798%2C19.9188829
  \nDojazd: https://www.google.com/maps/dir/?api=1&destination=49.9985798%2C
  19.9188829\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nD
- ane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ ane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Muzeum i Centrum Ruchu Harcerskiego\, ul. Forteczna 28\, 30-437 K
  raków
@@ -838,12 +838,248 @@ DESCRIPTION:warsztaty rodzinne\n\nStrona wydarzenia: https://ma.krakow.pl/
  0 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.057194%2C19.
  9393905\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.057
  194%2C19.9393905\n\nSprawdź oznakowanie i dostępność parkingu na miejs
- cu.\nDane sprawdzono: 2026-10-25T12:45:37.400079+01:00
+ cu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
 LAST-MODIFIED:20261025T113613Z
 LOCATION:Gmach główny Muzeum Archeologiczne w Krakwie\, Senacka 3\, Krak
  ów
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ma.krakow.pl/event/archeonauci-misja-przeszlosc-4-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wojenne tajemnice Krowodrzy - spacer
+DTSTART:20261121T100000Z
+DTSTAMP:20261028T140303Z
+UID:655a2d832235fd694dae4e18@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Wielokrotnie przechodzimy obok tych miejsc\, nie wiedząc jaki
+ e tajemnice historii kryją. Po co malowano białe strzałki i inne oznacz
+ enia na ścianach kamienic? Jak Niemcy…\n\nStrona wydarzenia: https://mu
+ zeumkrakowa.pl/kalendarium/wojenne-tajemnice-krowodrzy-spacer-1\nMiejsce: 
+ Ulica Pomorska\, ul. Pomorska 2\, 30-039 Kraków\nWstęp: Bezpłatne\nJęz
+ yk: do sprawdzenia\nGoogle Maps: https://www.google.com/maps/search/?api=1
+ &query=Ulica+Pomorska+ul.+Pomorska+2%2C+30-039+Krak%C3%B3w\nDojazd: https:
+ //www.google.com/maps/dir/?api=1&destination=Ulica+Pomorska+ul.+Pomorska+2
+ %2C+30-039+Krak%C3%B3w\n\nNajbliższe parkingi w bazie OSM (odległość w
+  linii prostej):\nParking z mapy OpenStreetMap — 17 m\nMapa: https://www
+ .google.com/maps/search/?api=1&query=50.0707126%2C19.9251554\nDojazd: http
+ s://www.google.com/maps/dir/?api=1&destination=50.0707126%2C19.9251554\nPa
+ rking z mapy OpenStreetMap — 20 m\nMapa: https://www.google.com/maps/sea
+ rch/?api=1&query=50.0705117%2C19.9249915\nDojazd: https://www.google.com/m
+ aps/dir/?api=1&destination=50.0705117%2C19.9249915\n\nSprawdź oznakowanie
+  i dostępność parkingu na miejscu.\nDane sprawdzono: 2026-10-28T15:03:0
+ 3.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Ulica Pomorska\, ul. Pomorska 2\, 30-039 Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/wojenne-tajemnice-krowodrzy-space
+ r-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mury obronne i ich rola w życiu średniowiecznego Krakowa
+DTSTART:20261124T160000Z
+DTSTAMP:20261028T140303Z
+UID:5a2905652e8c920759cbe1d1@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Mury dawnego Krakowa\, chociaż dzisiaj w większości niewido
+ czne\, odgrywały ogromną rolę w średniowiecznym mieście. Pomimo upły
+ wu wielu lat\, dzisiaj nadal możemy dostrzec…\n\nStrona wydarzenia: htt
+ ps://muzeumkrakowa.pl/kalendarium/mury-obronne-i-ich-rola-w-zyciu-sredniow
+ iecznego-krakowa\nMiejsce: Rynek Podziemny\, Rynek Główny 1\, 31-042 Kra
+ ków\nWstęp: Bezpłatne\nJęzyk: do sprawdzenia\nGoogle Maps: https://www
+ .google.com/maps/search/?api=1&query=Rynek+Podziemny+Rynek+G%C5%82%C3%B3wn
+ y+1%2C+31-042+Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&
+ destination=Rynek+Podziemny+Rynek+G%C5%82%C3%B3wny+1%2C+31-042+Krak%C3%B3w
+ \n\nNajbliższe parkingi w bazie OSM (odległość w linii prostej):\nPark
+ ing franciszkanów — 351 m\nMapa: https://www.google.com/maps/search/?ap
+ i=1&query=50.0583338%2C19.9361478\nDojazd: https://www.google.com/maps/dir
+ /?api=1&destination=50.0583338%2C19.9361478\nParking z mapy OpenStreetMap 
+ — 471 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.063071
+ 4%2C19.9303023\nDojazd: https://www.google.com/maps/dir/?api=1&destination
+ =50.0630714%2C19.9303023\n\nSprawdź oznakowanie i dostępność parkingu 
+ na miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Rynek Podziemny\, Rynek Główny 1\, 31-042 Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/mury-obronne-i-ich-rola-w-zyciu-s
+ redniowiecznego-krakowa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:„Hotel Forum i jego niezwykłe dzieje” – oprowadzanie po wys
+ tawie czasowej z pomocami sensorycznymi i elementami audiodeskrypcji AD
+DTSTART:20261125T150000Z
+DTSTAMP:20261028T140303Z
+UID:ea9b60721f1180e7b5cc7df0@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Wyrazisty w architektonicznej formie\, znakomity przykład bru
+ talizmu\, żelbetowa dominanta krajobrazu niegdyś kameralnego Ludwinowa. 
+ Hotel Forum nie miał szczęścia do…\n\nStrona wydarzenia: https://muze
+ umkrakowa.pl/kalendarium/hotel-forum-i-jego-niezwykle-dzieje-oprowadzanie-
+ po-wystawie-czasowej-z-pomocami-sensorycznymi-i-elementami-audiodeskrypcji
+ -ad\nMiejsce: Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 
+ Kraków\nWstęp: Bezpłatne\nJęzyk: do sprawdzenia\nGoogle Maps: https://
+ www.google.com/maps/search/?api=1&query=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%
+ 82awa+Limanowskiego+51%2C+30-551+Krak%C3%B3w\nDojazd: https://www.google.c
+ om/maps/dir/?api=1&destination=Muzeum+Podg%C3%B3rza+ul.+Boles%C5%82awa+Lim
+ anowskiego+51%2C+30-551+Krak%C3%B3w\n\nNajbliższe parkingi w bazie OSM (o
+ dległość w linii prostej):\nParking z mapy OpenStreetMap — 153 m\nMap
+ a: https://www.google.com/maps/search/?api=1&query=50.041726%2C19.9621907
+ \nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.041726%2C1
+ 9.9621907\nParking z mapy OpenStreetMap — 284 m\nMapa: https://www.googl
+ e.com/maps/search/?api=1&query=50.0405945%2C19.9584342\nDojazd: https://ww
+ w.google.com/maps/dir/?api=1&destination=50.0405945%2C19.9584342\n\nSprawd
+ ź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026
+ -10-28T15:03:03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Muzeum Podgórza\, ul. Bolesława Limanowskiego 51\, 30-551 Krak
+ ów
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/hotel-forum-i-jego-niezwykle-dzie
+ je-oprowadzanie-po-wystawie-czasowej-z-pomocami-sensorycznymi-i-elementami
+ -audiodeskrypcji-ad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krakowianie między kulturami: Węgry z bliska\, ale z dystansem. 
+ Rozmowa z prof. Michałem Némethem\, kierownikiem Katedry Filologii Węgi
+ erskiej UJ
+DTSTART:20261125T170000Z
+DTSTAMP:20261028T140303Z
+UID:f54fe783cc80115e90ca8d09@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Węgry od stuleci zajmują szczególne miejsce na mapie Europy
+  Środkowej. Ich historia\, język i kultura kształtowały się na styku 
+ wielu tradycji\, tworząc fenomen\, który…\n\nStrona wydarzenia: https:
+ //muzeumkrakowa.pl/kalendarium/krakowianie-miedzy-kulturami-wegry-z-bliska
+ -ale-z-dystansem-rozmowa-z-prof-michalem-nemethem-kierownikiem-katedry-fil
+ ologii-wegierskiej-uj\nMiejsce: Stara Synagoga\, ul. Szeroka 24\, 31-053 K
+ raków\nWstęp: Bezpłatne\nJęzyk: do sprawdzenia\nGoogle Maps: https://w
+ ww.google.com/maps/search/?api=1&query=Stara+Synagoga+ul.+Szeroka+24%2C+31
+ -053+Krak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&destinati
+ on=Stara+Synagoga+ul.+Szeroka+24%2C+31-053+Krak%C3%B3w\n\nNajbliższe park
+ ingi w bazie OSM (odległość w linii prostej):\nParking przy Dajwór —
+  78 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.051333%2C1
+ 9.9497796\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.0
+ 51333%2C19.9497796\nParking przy Dajwór — 99 m\nMapa: https://www.googl
+ e.com/maps/search/?api=1&query=50.0521639%2C19.9495042\nDojazd: https://ww
+ w.google.com/maps/dir/?api=1&destination=50.0521639%2C19.9495042\n\nSprawd
+ ź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzono: 2026
+ -10-28T15:03:03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Stara Synagoga\, ul. Szeroka 24\, 31-053 Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/krakowianie-miedzy-kulturami-wegr
+ y-z-bliska-ale-z-dystansem-rozmowa-z-prof-michalem-nemethem-kierownikiem-k
+ atedry-filologii-wegierskiej-uj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oprowadzanie kuratorskie po wystawie Fabryka Schindlera – histor
+ ie miejsca.
+DTSTART:20261126T160000Z
+DTSTAMP:20261028T140303Z
+UID:bb8d34dd400091aef4730138@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Wystawa opowie o tym\, jak doszło do tego\, że w dawnym budy
+ nku administracyjnym Deutsche Emailwarenfabrik (DEF)\, kierowanej przez Os
+ kara Schindlera w czasie niemieckiej…\n\nStrona wydarzenia: https://muze
+ umkrakowa.pl/kalendarium/oprowadzanie-kuratorskie-po-wystawie-fabryka-schi
+ ndlera-historie-miejsca-2\nMiejsce: Fabryka Emalia Oskara Schindlera\, ul.
+  Lipowa 4\, 30-702 Kraków\nWstęp: Sprawdź u organizatora\nJęzyk: do sp
+ rawdzenia\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Fa
+ bryka+Emalia+Oskara+Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w\nDojazd:
+  https://www.google.com/maps/dir/?api=1&destination=Fabryka+Emalia+Oskara+
+ Schindlera+ul.+Lipowa+4%2C+30-702+Krak%C3%B3w\n\nNajbliższe parkingi w ba
+ zie OSM (odległość w linii prostej):\nParking z mapy OpenStreetMap — 
+ 253 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0473054%2C
+ 19.9579347\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.
+ 0473054%2C19.9579347\nParking z mapy OpenStreetMap — 266 m\nMapa: https:
+ //www.google.com/maps/search/?api=1&query=50.0492295%2C19.9644492\nDojazd:
+  https://www.google.com/maps/dir/?api=1&destination=50.0492295%2C19.964449
+ 2\n\nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane spraw
+ dzono: 2026-10-28T15:03:03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Fabryka Emalia Oskara Schindlera\, ul. Lipowa 4\, 30-702 Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/oprowadzanie-kuratorskie-po-wysta
+ wie-fabryka-schindlera-historie-miejsca-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nowy Kleparz: od palimpsestu do spójnej koncepcji miejsca.
+DTSTART:20261126T170000Z
+DTSTAMP:20261028T140303Z
+UID:296a64bf7d6f350369db0a1c@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Zaniedbany i częściowo może nawet dysfunkcjonalny Nowy Klep
+ arz jest dla nas wyzwaniem. Kluczem jego rewitalizacji z myślą o nas i p
+ rzyszłych pokoleniach może być jego…\n\nStrona wydarzenia: https://mu
+ zeumkrakowa.pl/kalendarium/nowy-kleparz-od-palimpsestu-do-spojnej-koncepcj
+ i-miejsca\nMiejsce: Ulica Pomorska\, ul. Pomorska 2\, 30-039 Kraków\nWst
+ ęp: Bezpłatne\nJęzyk: do sprawdzenia\nGoogle Maps: https://www.google.c
+ om/maps/search/?api=1&query=Ulica+Pomorska+ul.+Pomorska+2%2C+30-039+Krak%C
+ 3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&destination=Ulica+Po
+ morska+ul.+Pomorska+2%2C+30-039+Krak%C3%B3w\n\nNajbliższe parkingi w bazi
+ e OSM (odległość w linii prostej):\nParking z mapy OpenStreetMap — 17
+  m\nMapa: https://www.google.com/maps/search/?api=1&query=50.0707126%2C19.
+ 9251554\nDojazd: https://www.google.com/maps/dir/?api=1&destination=50.070
+ 7126%2C19.9251554\nParking z mapy OpenStreetMap — 20 m\nMapa: https://ww
+ w.google.com/maps/search/?api=1&query=50.0705117%2C19.9249915\nDojazd: htt
+ ps://www.google.com/maps/dir/?api=1&destination=50.0705117%2C19.9249915\n
+ \nSprawdź oznakowanie i dostępność parkingu na miejscu.\nDane sprawdzo
+ no: 2026-10-28T15:03:03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Ulica Pomorska\, ul. Pomorska 2\, 30-039 Kraków
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://muzeumkrakowa.pl/kalendarium/nowy-kleparz-od-palimpsestu-do-sp
+ ojnej-koncepcji-miejsca
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wtorkowe spotkania z zabytkiem (nie tylko dla Seniorów)
+DTSTART:20261124T160000Z
+DTEND:20261124T170000Z
+DTSTAMP:20261028T140303Z
+UID:be9984d4419541dae1e3f82e@krakow-po-godzinach
+SEQUENCE:0
+CATEGORIES:historia
+CREATED:20261028T140303Z
+DESCRIPTION:Między nami a zabytkiem nie stoi już muzealna gablota…\n\n
+ Strona wydarzenia: https://ma.krakow.pl/event/wtorkowe-spotkania-z-zabytki
+ em-nie-tylko-dla-seniorow-4-2-2-2-2-2-2-2-2-2/\nMiejsce: Gmach główny Mu
+ zeum Archeologiczne w Krakwie\, Senacka 3\, Kraków\nWstęp: 5zł\nJęzyk:
+  do sprawdzenia\nGoogle Maps: https://www.google.com/maps/search/?api=1&qu
+ ery=Gmach+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Kr
+ ak%C3%B3w\nDojazd: https://www.google.com/maps/dir/?api=1&destination=Gmac
+ h+g%C5%82%C3%B3wny+Muzeum+Archeologiczne+w+Krakwie+Senacka+3%2C+Krak%C3%B3
+ w\n\nNajbliższe parkingi w bazie OSM (odległość w linii prostej):\nPar
+ king franciszkanów — 84 m\nMapa: https://www.google.com/maps/search/?ap
+ i=1&query=50.0583338%2C19.9361478\nDojazd: https://www.google.com/maps/dir
+ /?api=1&destination=50.0583338%2C19.9361478\nParking z mapy OpenStreetMap 
+ — 200 m\nMapa: https://www.google.com/maps/search/?api=1&query=50.057194
+ %2C19.9393905\nDojazd: https://www.google.com/maps/dir/?api=1&destination=
+ 50.057194%2C19.9393905\n\nSprawdź oznakowanie i dostępność parkingu na
+  miejscu.\nDane sprawdzono: 2026-10-28T15:03:03.181750+01:00
+LAST-MODIFIED:20261028T140303Z
+LOCATION:Gmach główny Muzeum Archeologiczne w Krakwie\, Senacka 3\, Krak
+ ów
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ma.krakow.pl/event/wtorkowe-spotkania-z-zabytkiem-nie-tylko-dl
+ a-seniorow-4-2-2-2-2-2-2-2-2-2/
 END:VEVENT
 END:VCALENDAR
